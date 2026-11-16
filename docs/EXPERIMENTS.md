@@ -23,6 +23,16 @@
 | UA-GEC (Syvokon et al., 2023) | CC BY 4.0 | https://github.com/grammarly/ua-gec | `data/external/ua-gec/` |
 | BothBosu/scam-dialogue | Apache-2.0 | https://huggingface.co/datasets/BothBosu/scam-dialogue — `scam-dialogue_test.csv` | `data/external/scam_dialogue/` |
 
+Зовнішня перевірка (розділ 7) — набори, які не використовувались ні в навчанні, ні в адаптації:
+
+| Набір | Ліцензія | Звідки | Що взято |
+|---|---|---|---|
+| ML-ITW (Multilingual In-The-Wild, 2026), українська частина | не вказана | https://huggingface.co/datasets/nccm2p2/ML-ITW | 73 справжні записи і 17 дипфейків українських публічних осіб (Facebook, X) |
+| DRSSU (Lipianina-Honcharenko et al., *Scientific Data*, 2025) | CC BY 4.0 | https://github.com/bohutahennadii/audio_database | 300 підробок (Edge-TTS `uk-UA-OstapNeural` + RVC) і 300 справжніх (Common Voice 16.1) |
+| FLEURS uk, test | CC BY 4.0 | https://huggingface.co/datasets/google/fleurs | 300 справжніх записів |
+
+Завантаження: `python scripts/uk_external_download.py --drssu 300 --fleurs 300`.
+
 Українські записи — лише з відкритих наборів, голоси — зі згоди авторів записів (Common Voice) або синтетичні.
 
 ## Відтворення
@@ -107,6 +117,30 @@ python scripts/scam_eval.py                          # виявлення шах
 ```bash
 python scripts/make_demo.py                          # набір demo/ з даних Common Voice і Piper
 ```
+
+### 7. Зовнішня перевірка на незалежних українських наборах
+
+```bash
+python scripts/uk_external_download.py --drssu 300 --fleurs 300
+python scripts/uk_external.py          # → results/uk_external.json, results/uk_external_scores.csv
+```
+
+EER (журнал — `results/run14_log.txt`):
+
+| Пара «справжні vs підробки» | WavLM, лише ASVspoof (англ.) | WavLM, адаптований (програма) |
+|---|---|---|
+| B. FLEURS vs DRSSU (Edge-TTS + RVC) | 34,3 % | **1,0 %** |
+| C. DRSSU-справжні (Common Voice 16.1) vs DRSSU-підробки | 44,3 % | 12,3 % |
+| A. ML-ITW: справжні vs дипфейки з соцмереж | 82,3 % | **69,9 %** |
+
+Помилки адаптованого детектора на порогах програми (м'яка / звичайна / сувора):
+FLEURS — відхилено справжніх 0,3 / 1,0 / 2,7 %; DRSSU-підробки — пропущено 13,7 / 1,0 / 0,0 %;
+ML-ITW — відхилено справжніх 11,0 / 19,2 / 27,4 %, пропущено дипфейків **17 з 17** на всіх порогах.
+
+Висновки:
+* Адаптація узагальнюється на **інші синтезатори й перетворення голосу** (Edge-TTS + RVC не було в адаптації — лише Piper) і на **незалежні справжні записи** (FLEURS): EER 34,3 % → 1,0 %.
+* Справжні записи з Common Voice детектор частіше вважає підозрілими (12,3 %), як і в основних експериментах: побутові мікрофони й шум.
+* **Дипфейки з соцмереж детектор не виявляє.** Записи ML-ITW пройшли обробку платформами (стиснення відео, музика, монтаж), а дипфейки, ймовірно, створено комерційними сервісами клонування голосу. Підробки Залужного отримали вищі оцінки «справжності», ніж його справжні записи. Вибірка мала (17 дипфейків, 3 особи), але результат однозначний: це головне обмеження системи і напрям подальшої роботи (адаптація на записах із соцмереж і сучасних сервісах клонування).
 
 ## Головні результати
 

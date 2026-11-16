@@ -1,0 +1,1981 @@
+detector;set;file;score
+WavLM, лише ASVspoof (англ.);mlitw_real;000_bona-fide_KyryloBudanov.wav;-1.0423
+WavLM, лише ASVspoof (англ.);mlitw_real;002_bona-fide_KyryloBudanov.wav;-1.3848
+WavLM, лише ASVspoof (англ.);mlitw_real;003_bona-fide_zelenskyy.wav;-0.7296
+WavLM, лише ASVspoof (англ.);mlitw_real;004_bona-fide_KyryloBudanov.wav;-2.8448
+WavLM, лише ASVspoof (англ.);mlitw_real;005_bona-fide_KyryloBudanov.wav;-4.2902
+WavLM, лише ASVspoof (англ.);mlitw_real;006_bona-fide_KyryloBudanov.wav;-3.5331
+WavLM, лише ASVspoof (англ.);mlitw_real;007_bona-fide_KyryloBudanov.wav;-5.4879
+WavLM, лише ASVspoof (англ.);mlitw_real;009_bona-fide_KyryloBudanov.wav;-2.1846
+WavLM, лише ASVspoof (англ.);mlitw_real;010_bona-fide_KyryloBudanov.wav;-1.0590
+WavLM, лише ASVspoof (англ.);mlitw_real;011_bona-fide_KyryloBudanov.wav;1.6798
+WavLM, лише ASVspoof (англ.);mlitw_real;012_bona-fide_KyryloBudanov.wav;-1.9059
+WavLM, лише ASVspoof (англ.);mlitw_real;013_bona-fide_KyryloBudanov.wav;-1.7430
+WavLM, лише ASVspoof (англ.);mlitw_real;014_bona-fide_KyryloBudanov.wav;-0.6298
+WavLM, лише ASVspoof (англ.);mlitw_real;015_bona-fide_valerii.wav;-6.7628
+WavLM, лише ASVspoof (англ.);mlitw_real;016_bona-fide_KyryloBudanov.wav;-1.2308
+WavLM, лише ASVspoof (англ.);mlitw_real;017_bona-fide_KyryloBudanov.wav;0.9589
+WavLM, лише ASVspoof (англ.);mlitw_real;018_bona-fide_KyryloBudanov.wav;-2.5203
+WavLM, лише ASVspoof (англ.);mlitw_real;019_bona-fide_KyryloBudanov.wav;-3.3171
+WavLM, лише ASVspoof (англ.);mlitw_real;020_bona-fide_KyryloBudanov.wav;-4.6837
+WavLM, лише ASVspoof (англ.);mlitw_real;021_bona-fide_KyryloBudanov.wav;0.7615
+WavLM, лише ASVspoof (англ.);mlitw_real;022_bona-fide_KyryloBudanov.wav;0.8857
+WavLM, лише ASVspoof (англ.);mlitw_real;024_bona-fide_KyryloBudanov.wav;-2.1347
+WavLM, лише ASVspoof (англ.);mlitw_real;027_bona-fide_zelenskyy.wav;-2.1448
+WavLM, лише ASVspoof (англ.);mlitw_real;028_bona-fide_zelenskyy.wav;-2.3764
+WavLM, лише ASVspoof (англ.);mlitw_real;029_bona-fide_KyryloBudanov.wav;0.6871
+WavLM, лише ASVspoof (англ.);mlitw_real;030_bona-fide_KyryloBudanov.wav;-2.0076
+WavLM, лише ASVspoof (англ.);mlitw_real;031_bona-fide_zelenskyy.wav;-1.1898
+WavLM, лише ASVspoof (англ.);mlitw_real;032_bona-fide_valerii.wav;-9.9771
+WavLM, лише ASVspoof (англ.);mlitw_real;033_bona-fide_KyryloBudanov.wav;-2.5787
+WavLM, лише ASVspoof (англ.);mlitw_real;034_bona-fide_KyryloBudanov.wav;-2.1477
+WavLM, лише ASVspoof (англ.);mlitw_real;035_bona-fide_valerii.wav;-11.1893
+WavLM, лише ASVspoof (англ.);mlitw_real;036_bona-fide_KyryloBudanov.wav;-0.4380
+WavLM, лише ASVspoof (англ.);mlitw_real;037_bona-fide_KyryloBudanov.wav;0.0875
+WavLM, лише ASVspoof (англ.);mlitw_real;041_bona-fide_KyryloBudanov.wav;3.4006
+WavLM, лише ASVspoof (англ.);mlitw_real;042_bona-fide_KyryloBudanov.wav;-1.1883
+WavLM, лише ASVspoof (англ.);mlitw_real;043_bona-fide_valerii.wav;-11.7034
+WavLM, лише ASVspoof (англ.);mlitw_real;044_bona-fide_valerii.wav;-8.6065
+WavLM, лише ASVspoof (англ.);mlitw_real;045_bona-fide_KyryloBudanov.wav;-0.0095
+WavLM, лише ASVspoof (англ.);mlitw_real;046_bona-fide_zelenskyy.wav;-3.1516
+WavLM, лише ASVspoof (англ.);mlitw_real;048_bona-fide_KyryloBudanov.wav;-0.0525
+WavLM, лише ASVspoof (англ.);mlitw_real;051_bona-fide_KyryloBudanov.wav;-1.2883
+WavLM, лише ASVspoof (англ.);mlitw_real;052_bona-fide_valerii.wav;-10.6984
+WavLM, лише ASVspoof (англ.);mlitw_real;053_bona-fide_KyryloBudanov.wav;-2.1272
+WavLM, лише ASVspoof (англ.);mlitw_real;054_bona-fide_zelenskyy.wav;-3.4573
+WavLM, лише ASVspoof (англ.);mlitw_real;055_bona-fide_KyryloBudanov.wav;-1.9980
+WavLM, лише ASVspoof (англ.);mlitw_real;056_bona-fide_valerii.wav;-12.7139
+WavLM, лише ASVspoof (англ.);mlitw_real;058_bona-fide_KyryloBudanov.wav;-2.7486
+WavLM, лише ASVspoof (англ.);mlitw_real;059_bona-fide_KyryloBudanov.wav;0.4308
+WavLM, лише ASVspoof (англ.);mlitw_real;060_bona-fide_KyryloBudanov.wav;-0.8692
+WavLM, лише ASVspoof (англ.);mlitw_real;061_bona-fide_KyryloBudanov.wav;0.4972
+WavLM, лише ASVspoof (англ.);mlitw_real;063_bona-fide_valerii.wav;-7.5231
+WavLM, лише ASVspoof (англ.);mlitw_real;064_bona-fide_zelenskyy.wav;-3.6775
+WavLM, лише ASVspoof (англ.);mlitw_real;066_bona-fide_valerii.wav;-9.3484
+WavLM, лише ASVspoof (англ.);mlitw_real;067_bona-fide_KyryloBudanov.wav;-3.7792
+WavLM, лише ASVspoof (англ.);mlitw_real;068_bona-fide_KyryloBudanov.wav;-1.8781
+WavLM, лише ASVspoof (англ.);mlitw_real;069_bona-fide_valerii.wav;-5.7040
+WavLM, лише ASVspoof (англ.);mlitw_real;070_bona-fide_KyryloBudanov.wav;1.6417
+WavLM, лише ASVspoof (англ.);mlitw_real;071_bona-fide_KyryloBudanov.wav;0.3731
+WavLM, лише ASVspoof (англ.);mlitw_real;072_bona-fide_KyryloBudanov.wav;-0.0022
+WavLM, лише ASVspoof (англ.);mlitw_real;073_bona-fide_zelenskyy.wav;-0.6724
+WavLM, лише ASVspoof (англ.);mlitw_real;076_bona-fide_KyryloBudanov.wav;0.5259
+WavLM, лише ASVspoof (англ.);mlitw_real;077_bona-fide_valerii.wav;-7.2144
+WavLM, лише ASVspoof (англ.);mlitw_real;078_bona-fide_valerii.wav;-11.1106
+WavLM, лише ASVspoof (англ.);mlitw_real;079_bona-fide_valerii.wav;-9.7940
+WavLM, лише ASVspoof (англ.);mlitw_real;081_bona-fide_KyryloBudanov.wav;-0.9318
+WavLM, лише ASVspoof (англ.);mlitw_real;082_bona-fide_KyryloBudanov.wav;-3.3201
+WavLM, лише ASVspoof (англ.);mlitw_real;083_bona-fide_KyryloBudanov.wav;1.1200
+WavLM, лише ASVspoof (англ.);mlitw_real;084_bona-fide_zelenskyy.wav;-3.1704
+WavLM, лише ASVspoof (англ.);mlitw_real;085_bona-fide_KyryloBudanov.wav;-3.4430
+WavLM, лише ASVspoof (англ.);mlitw_real;086_bona-fide_KyryloBudanov.wav;-2.9147
+WavLM, лише ASVspoof (англ.);mlitw_real;087_bona-fide_KyryloBudanov.wav;-0.8928
+WavLM, лише ASVspoof (англ.);mlitw_real;088_bona-fide_KyryloBudanov.wav;-2.3600
+WavLM, лише ASVspoof (англ.);mlitw_real;089_bona-fide_valerii.wav;-6.3581
+WavLM, лише ASVspoof (англ.);mlitw_fake;001_spoof_valerii.wav;1.2234
+WavLM, лише ASVspoof (англ.);mlitw_fake;008_spoof_valerii.wav;2.6013
+WavLM, лише ASVspoof (англ.);mlitw_fake;023_spoof_valerii.wav;3.2686
+WavLM, лише ASVspoof (англ.);mlitw_fake;025_spoof_valerii.wav;1.2415
+WavLM, лише ASVspoof (англ.);mlitw_fake;026_spoof_valerii.wav;3.5644
+WavLM, лише ASVspoof (англ.);mlitw_fake;038_spoof_valerii.wav;3.5197
+WavLM, лише ASVspoof (англ.);mlitw_fake;039_spoof_zelenskyy.wav;-8.9964
+WavLM, лише ASVspoof (англ.);mlitw_fake;040_spoof_danilov.wav;-0.0066
+WavLM, лише ASVspoof (англ.);mlitw_fake;047_spoof_danilov.wav;-2.8675
+WavLM, лише ASVspoof (англ.);mlitw_fake;049_spoof_valerii.wav;3.1188
+WavLM, лише ASVspoof (англ.);mlitw_fake;050_spoof_valerii.wav;2.8381
+WavLM, лише ASVspoof (англ.);mlitw_fake;057_spoof_danilov.wav;1.1137
+WavLM, лише ASVspoof (англ.);mlitw_fake;062_spoof_valerii.wav;1.5281
+WavLM, лише ASVspoof (англ.);mlitw_fake;065_spoof_valerii.wav;1.3037
+WavLM, лише ASVspoof (англ.);mlitw_fake;074_spoof_valerii.wav;0.2526
+WavLM, лише ASVspoof (англ.);mlitw_fake;075_spoof_valerii.wav;0.4365
+WavLM, лише ASVspoof (англ.);mlitw_fake;080_spoof_valerii.wav;3.6318
+WavLM, лише ASVspoof (англ.);drssu_fake;1001.wav;-0.7142
+WavLM, лише ASVspoof (англ.);drssu_fake;1019.wav;-2.3456
+WavLM, лише ASVspoof (англ.);drssu_fake;1021.wav;1.0258
+WavLM, лише ASVspoof (англ.);drssu_fake;1032.wav;1.9035
+WavLM, лише ASVspoof (англ.);drssu_fake;1047.wav;2.1297
+WavLM, лише ASVspoof (англ.);drssu_fake;1132.wav;1.3677
+WavLM, лише ASVspoof (англ.);drssu_fake;1147.wav;0.1224
+WavLM, лише ASVspoof (англ.);drssu_fake;1180.wav;-0.3906
+WavLM, лише ASVspoof (англ.);drssu_fake;1209.wav;2.4194
+WavLM, лише ASVspoof (англ.);drssu_fake;1213.wav;0.3298
+WavLM, лише ASVspoof (англ.);drssu_fake;1296.wav;-1.4160
+WavLM, лише ASVspoof (англ.);drssu_fake;1315.wav;0.0393
+WavLM, лише ASVspoof (англ.);drssu_fake;1319.wav;-0.4770
+WavLM, лише ASVspoof (англ.);drssu_fake;1323.wav;0.8288
+WavLM, лише ASVspoof (англ.);drssu_fake;1333.wav;1.1282
+WavLM, лише ASVspoof (англ.);drssu_fake;1350.wav;2.2521
+WavLM, лише ASVspoof (англ.);drssu_fake;1368.wav;0.0336
+WavLM, лише ASVspoof (англ.);drssu_fake;1472.wav;-1.4218
+WavLM, лише ASVspoof (англ.);drssu_fake;1495.wav;-2.2204
+WavLM, лише ASVspoof (англ.);drssu_fake;1500.wav;-1.7388
+WavLM, лише ASVspoof (англ.);drssu_fake;1502.wav;0.2334
+WavLM, лише ASVspoof (англ.);drssu_fake;1529.wav;-1.1032
+WavLM, лише ASVspoof (англ.);drssu_fake;1554.wav;1.3516
+WavLM, лише ASVspoof (англ.);drssu_fake;1603.wav;-1.4615
+WavLM, лише ASVspoof (англ.);drssu_fake;1619.wav;0.9754
+WavLM, лише ASVspoof (англ.);drssu_fake;1642.wav;-0.0235
+WavLM, лише ASVspoof (англ.);drssu_fake;1649.wav;-2.9596
+WavLM, лише ASVspoof (англ.);drssu_fake;1650.wav;-1.1771
+WavLM, лише ASVspoof (англ.);drssu_fake;1654.wav;-0.3445
+WavLM, лише ASVspoof (англ.);drssu_fake;1663.wav;0.1116
+WavLM, лише ASVspoof (англ.);drssu_fake;1787.wav;-0.9294
+WavLM, лише ASVspoof (англ.);drssu_fake;1886.wav;1.3760
+WavLM, лише ASVspoof (англ.);drssu_fake;1890.wav;-0.7005
+WavLM, лише ASVspoof (англ.);drssu_fake;1897.wav;0.0986
+WavLM, лише ASVspoof (англ.);drssu_fake;19.wav;-1.3849
+WavLM, лише ASVspoof (англ.);drssu_fake;1902.wav;1.0851
+WavLM, лише ASVspoof (англ.);drssu_fake;1920.wav;-1.0458
+WavLM, лише ASVspoof (англ.);drssu_fake;1921.wav;0.2578
+WavLM, лише ASVspoof (англ.);drssu_fake;1949.wav;1.0141
+WavLM, лише ASVspoof (англ.);drssu_fake;1962.wav;0.8482
+WavLM, лише ASVspoof (англ.);drssu_fake;2.wav;1.4533
+WavLM, лише ASVspoof (англ.);drssu_fake;2030.wav;-0.0975
+WavLM, лише ASVspoof (англ.);drssu_fake;2039.wav;3.4536
+WavLM, лише ASVspoof (англ.);drssu_fake;204.wav;0.5551
+WavLM, лише ASVspoof (англ.);drssu_fake;2045.wav;0.0251
+WavLM, лише ASVspoof (англ.);drssu_fake;2134.wav;1.5322
+WavLM, лише ASVspoof (англ.);drssu_fake;2139.wav;-1.3235
+WavLM, лише ASVspoof (англ.);drssu_fake;2169.wav;-1.3171
+WavLM, лише ASVspoof (англ.);drssu_fake;217.wav;-2.2232
+WavLM, лише ASVspoof (англ.);drssu_fake;2186.wav;-2.2373
+WavLM, лише ASVspoof (англ.);drssu_fake;2210.wav;-0.0565
+WavLM, лише ASVspoof (англ.);drssu_fake;2282.wav;1.0560
+WavLM, лише ASVspoof (англ.);drssu_fake;2290.wav;0.7761
+WavLM, лише ASVspoof (англ.);drssu_fake;231.wav;-1.1463
+WavLM, лише ASVspoof (англ.);drssu_fake;2335.wav;-0.8310
+WavLM, лише ASVspoof (англ.);drssu_fake;235.wav;1.3819
+WavLM, лише ASVspoof (англ.);drssu_fake;2398.wav;0.4059
+WavLM, лише ASVspoof (англ.);drssu_fake;2408.wav;3.1019
+WavLM, лише ASVspoof (англ.);drssu_fake;242.wav;1.6232
+WavLM, лише ASVspoof (англ.);drssu_fake;2451.wav;0.3567
+WavLM, лише ASVspoof (англ.);drssu_fake;25.wav;-0.4636
+WavLM, лише ASVspoof (англ.);drssu_fake;2514.wav;-0.2184
+WavLM, лише ASVspoof (англ.);drssu_fake;2531.wav;1.2443
+WavLM, лише ASVspoof (англ.);drssu_fake;2584.wav;-1.0805
+WavLM, лише ASVspoof (англ.);drssu_fake;2593.wav;1.1217
+WavLM, лише ASVspoof (англ.);drssu_fake;2623.wav;0.1974
+WavLM, лише ASVspoof (англ.);drssu_fake;2654.wav;0.1322
+WavLM, лише ASVspoof (англ.);drssu_fake;266.wav;1.1179
+WavLM, лише ASVspoof (англ.);drssu_fake;2715.wav;-0.0854
+WavLM, лише ASVspoof (англ.);drssu_fake;2776.wav;-0.7091
+WavLM, лише ASVspoof (англ.);drssu_fake;2794.wav;-1.7624
+WavLM, лише ASVspoof (англ.);drssu_fake;2865.wav;-1.7451
+WavLM, лише ASVspoof (англ.);drssu_fake;2922.wav;-0.5661
+WavLM, лише ASVspoof (англ.);drssu_fake;2955.wav;0.6406
+WavLM, лише ASVspoof (англ.);drssu_fake;2986.wav;-0.6995
+WavLM, лише ASVspoof (англ.);drssu_fake;3013.wav;-2.3931
+WavLM, лише ASVspoof (англ.);drssu_fake;3031.wav;0.1287
+WavLM, лише ASVspoof (англ.);drssu_fake;305.wav;0.8240
+WavLM, лише ASVspoof (англ.);drssu_fake;3060.wav;-1.3522
+WavLM, лише ASVspoof (англ.);drssu_fake;3081.wav;1.3785
+WavLM, лише ASVspoof (англ.);drssu_fake;3089.wav;0.1582
+WavLM, лише ASVspoof (англ.);drssu_fake;3103.wav;-0.3092
+WavLM, лише ASVspoof (англ.);drssu_fake;3120.wav;-0.1998
+WavLM, лише ASVspoof (англ.);drssu_fake;3121.wav;-2.5173
+WavLM, лише ASVspoof (англ.);drssu_fake;3131.wav;0.1612
+WavLM, лише ASVspoof (англ.);drssu_fake;3151.wav;0.0820
+WavLM, лише ASVspoof (англ.);drssu_fake;3189.wav;0.1816
+WavLM, лише ASVspoof (англ.);drssu_fake;3253.wav;-0.8218
+WavLM, лише ASVspoof (англ.);drssu_fake;3267.wav;0.1771
+WavLM, лише ASVspoof (англ.);drssu_fake;3330.wav;-2.1316
+WavLM, лише ASVspoof (англ.);drssu_fake;3333.wav;-3.1767
+WavLM, лише ASVspoof (англ.);drssu_fake;3351.wav;1.1842
+WavLM, лише ASVspoof (англ.);drssu_fake;3371.wav;-0.8321
+WavLM, лише ASVspoof (англ.);drssu_fake;3451.wav;0.3431
+WavLM, лише ASVspoof (англ.);drssu_fake;3499.wav;0.6674
+WavLM, лише ASVspoof (англ.);drssu_fake;3526.wav;-1.8143
+WavLM, лише ASVspoof (англ.);drssu_fake;355.wav;-0.0498
+WavLM, лише ASVspoof (англ.);drssu_fake;3579.wav;-2.2897
+WavLM, лише ASVspoof (англ.);drssu_fake;358.wav;1.8237
+WavLM, лише ASVspoof (англ.);drssu_fake;3585.wav;-0.5436
+WavLM, лише ASVspoof (англ.);drssu_fake;3613.wav;2.4677
+WavLM, лише ASVspoof (англ.);drssu_fake;3619.wav;2.4650
+WavLM, лише ASVspoof (англ.);drssu_fake;3633.wav;-0.6388
+WavLM, лише ASVspoof (англ.);drssu_fake;3656.wav;0.0297
+WavLM, лише ASVspoof (англ.);drssu_fake;374.wav;0.0229
+WavLM, лише ASVspoof (англ.);drssu_fake;3859.wav;-1.2310
+WavLM, лише ASVspoof (англ.);drssu_fake;39.wav;-0.4190
+WavLM, лише ASVspoof (англ.);drssu_fake;3910.wav;1.7184
+WavLM, лише ASVspoof (англ.);drssu_fake;3923.wav;-0.2593
+WavLM, лише ASVspoof (англ.);drssu_fake;3935.wav;0.4329
+WavLM, лише ASVspoof (англ.);drssu_fake;3967.wav;-0.8562
+WavLM, лише ASVspoof (англ.);drssu_fake;3982.wav;0.1222
+WavLM, лише ASVspoof (англ.);drssu_fake;3997.wav;1.1464
+WavLM, лише ASVspoof (англ.);drssu_fake;4105.wav;0.2001
+WavLM, лише ASVspoof (англ.);drssu_fake;4108.wav;-1.8157
+WavLM, лише ASVspoof (англ.);drssu_fake;4112.wav;-1.8025
+WavLM, лише ASVspoof (англ.);drssu_fake;4203.wav;-0.3119
+WavLM, лише ASVspoof (англ.);drssu_fake;4243.wav;-0.1350
+WavLM, лише ASVspoof (англ.);drssu_fake;4248.wav;0.6911
+WavLM, лише ASVspoof (англ.);drssu_fake;4255.wav;1.5593
+WavLM, лише ASVspoof (англ.);drssu_fake;4259.wav;-0.8333
+WavLM, лише ASVspoof (англ.);drssu_fake;4261.wav;0.5589
+WavLM, лише ASVspoof (англ.);drssu_fake;4263.wav;-0.3549
+WavLM, лише ASVspoof (англ.);drssu_fake;4268.wav;1.0766
+WavLM, лише ASVspoof (англ.);drssu_fake;438.wav;-1.9160
+WavLM, лише ASVspoof (англ.);drssu_fake;4441.wav;2.4031
+WavLM, лише ASVspoof (англ.);drssu_fake;4501.wav;-0.8108
+WavLM, лише ASVspoof (англ.);drssu_fake;4510.wav;-1.5673
+WavLM, лише ASVspoof (англ.);drssu_fake;4516.wav;0.7816
+WavLM, лише ASVspoof (англ.);drssu_fake;4562.wav;-0.3434
+WavLM, лише ASVspoof (англ.);drssu_fake;4588.wav;0.9375
+WavLM, лише ASVspoof (англ.);drssu_fake;4602.wav;-2.0467
+WavLM, лише ASVspoof (англ.);drssu_fake;4618.wav;-0.2490
+WavLM, лише ASVspoof (англ.);drssu_fake;4713.wav;-0.7298
+WavLM, лише ASVspoof (англ.);drssu_fake;4717.wav;1.5454
+WavLM, лише ASVspoof (англ.);drssu_fake;4757.wav;0.8847
+WavLM, лише ASVspoof (англ.);drssu_fake;4770.wav;2.7199
+WavLM, лише ASVspoof (англ.);drssu_fake;4933.wav;-0.8175
+WavLM, лише ASVspoof (англ.);drssu_fake;4939.wav;-1.3154
+WavLM, лише ASVspoof (англ.);drssu_fake;4955.wav;-1.3435
+WavLM, лише ASVspoof (англ.);drssu_fake;4970.wav;-0.6913
+WavLM, лише ASVspoof (англ.);drssu_fake;5082.wav;-1.3470
+WavLM, лише ASVspoof (англ.);drssu_fake;5084.wav;0.9103
+WavLM, лише ASVspoof (англ.);drssu_fake;5103.wav;0.7154
+WavLM, лише ASVspoof (англ.);drssu_fake;5113.wav;1.7469
+WavLM, лише ASVspoof (англ.);drssu_fake;5157.wav;-0.6877
+WavLM, лише ASVspoof (англ.);drssu_fake;517.wav;2.1601
+WavLM, лише ASVspoof (англ.);drssu_fake;5181.wav;-1.9339
+WavLM, лише ASVspoof (англ.);drssu_fake;5195.wav;-0.5808
+WavLM, лише ASVspoof (англ.);drssu_fake;5244.wav;-0.4352
+WavLM, лише ASVspoof (англ.);drssu_fake;5314.wav;-1.3358
+WavLM, лише ASVspoof (англ.);drssu_fake;5329.wav;-0.1669
+WavLM, лише ASVspoof (англ.);drssu_fake;5341.wav;0.2528
+WavLM, лише ASVspoof (англ.);drssu_fake;541.wav;-0.9375
+WavLM, лише ASVspoof (англ.);drssu_fake;5410.wav;-0.7123
+WavLM, лише ASVspoof (англ.);drssu_fake;5449.wav;0.0423
+WavLM, лише ASVspoof (англ.);drssu_fake;5452.wav;0.0717
+WavLM, лише ASVspoof (англ.);drssu_fake;5459.wav;3.7303
+WavLM, лише ASVspoof (англ.);drssu_fake;5479.wav;-0.2923
+WavLM, лише ASVspoof (англ.);drssu_fake;5494.wav;0.1212
+WavLM, лише ASVspoof (англ.);drssu_fake;5504.wav;-0.0061
+WavLM, лише ASVspoof (англ.);drssu_fake;56.wav;-1.6748
+WavLM, лише ASVspoof (англ.);drssu_fake;5609.wav;2.8563
+WavLM, лише ASVspoof (англ.);drssu_fake;5687.wav;0.5109
+WavLM, лише ASVspoof (англ.);drssu_fake;5740.wav;-0.7692
+WavLM, лише ASVspoof (англ.);drssu_fake;5771.wav;1.3666
+WavLM, лише ASVspoof (англ.);drssu_fake;5797.wav;-2.6912
+WavLM, лише ASVspoof (англ.);drssu_fake;5852.wav;1.2085
+WavLM, лише ASVspoof (англ.);drssu_fake;5856.wav;-2.3545
+WavLM, лише ASVspoof (англ.);drssu_fake;5867.wav;1.6160
+WavLM, лише ASVspoof (англ.);drssu_fake;5875.wav;0.3397
+WavLM, лише ASVspoof (англ.);drssu_fake;5886.wav;-2.3739
+WavLM, лише ASVspoof (англ.);drssu_fake;597.wav;1.2522
+WavLM, лише ASVspoof (англ.);drssu_fake;6012.wav;-0.2536
+WavLM, лише ASVspoof (англ.);drssu_fake;6065.wav;-1.5636
+WavLM, лише ASVspoof (англ.);drssu_fake;6096.wav;0.5551
+WavLM, лише ASVspoof (англ.);drssu_fake;6103.wav;-0.9239
+WavLM, лише ASVspoof (англ.);drssu_fake;6204.wav;0.5168
+WavLM, лише ASVspoof (англ.);drssu_fake;6307.wav;-0.5194
+WavLM, лише ASVspoof (англ.);drssu_fake;6312.wav;-0.8194
+WavLM, лише ASVspoof (англ.);drssu_fake;634.wav;-1.0878
+WavLM, лише ASVspoof (англ.);drssu_fake;6358.wav;0.7804
+WavLM, лише ASVspoof (англ.);drssu_fake;6368.wav;-2.5883
+WavLM, лише ASVspoof (англ.);drssu_fake;638.wav;0.2656
+WavLM, лише ASVspoof (англ.);drssu_fake;6410.wav;-0.5166
+WavLM, лише ASVspoof (англ.);drssu_fake;6411.wav;-0.5254
+WavLM, лише ASVspoof (англ.);drssu_fake;646.wav;0.5356
+WavLM, лише ASVspoof (англ.);drssu_fake;6500.wav;1.7474
+WavLM, лише ASVspoof (англ.);drssu_fake;6535.wav;-0.6560
+WavLM, лише ASVspoof (англ.);drssu_fake;6584.wav;-0.7742
+WavLM, лише ASVspoof (англ.);drssu_fake;6591.wav;-0.5458
+WavLM, лише ASVspoof (англ.);drssu_fake;6635.wav;-1.1375
+WavLM, лише ASVspoof (англ.);drssu_fake;664.wav;0.9821
+WavLM, лише ASVspoof (англ.);drssu_fake;667.wav;-0.2614
+WavLM, лише ASVspoof (англ.);drssu_fake;6716.wav;-0.2926
+WavLM, лише ASVspoof (англ.);drssu_fake;6790.wav;-0.3653
+WavLM, лише ASVspoof (англ.);drssu_fake;6802.wav;1.2720
+WavLM, лише ASVspoof (англ.);drssu_fake;6841.wav;1.9405
+WavLM, лише ASVspoof (англ.);drssu_fake;6853.wav;-1.1123
+WavLM, лише ASVspoof (англ.);drssu_fake;6872.wav;-1.8350
+WavLM, лише ASVspoof (англ.);drssu_fake;689.wav;0.2782
+WavLM, лише ASVspoof (англ.);drssu_fake;6891.wav;0.1003
+WavLM, лише ASVspoof (англ.);drssu_fake;694.wav;-1.8428
+WavLM, лише ASVspoof (англ.);drssu_fake;6974.wav;-1.0298
+WavLM, лише ASVspoof (англ.);drssu_fake;6982.wav;0.0560
+WavLM, лише ASVspoof (англ.);drssu_fake;7114.wav;0.5089
+WavLM, лише ASVspoof (англ.);drssu_fake;7135.wav;1.4259
+WavLM, лише ASVspoof (англ.);drssu_fake;7145.wav;-0.2976
+WavLM, лише ASVspoof (англ.);drssu_fake;7247.wav;0.5827
+WavLM, лише ASVspoof (англ.);drssu_fake;7254.wav;-0.0716
+WavLM, лише ASVspoof (англ.);drssu_fake;7291.wav;2.8305
+WavLM, лише ASVspoof (англ.);drssu_fake;7297.wav;-0.5539
+WavLM, лише ASVspoof (англ.);drssu_fake;7314.wav;-0.5192
+WavLM, лише ASVspoof (англ.);drssu_fake;7340.wav;-5.3903
+WavLM, лише ASVspoof (англ.);drssu_fake;7343.wav;-2.0237
+WavLM, лише ASVspoof (англ.);drssu_fake;7383.wav;-1.2834
+WavLM, лише ASVspoof (англ.);drssu_fake;742.wav;-2.0307
+WavLM, лише ASVspoof (англ.);drssu_fake;7422.wav;0.6570
+WavLM, лише ASVspoof (англ.);drssu_fake;749.wav;0.2455
+WavLM, лише ASVspoof (англ.);drssu_fake;7504.wav;-0.5423
+WavLM, лише ASVspoof (англ.);drssu_fake;7515.wav;1.1567
+WavLM, лише ASVspoof (англ.);drssu_fake;7650.wav;-0.5843
+WavLM, лише ASVspoof (англ.);drssu_fake;7654.wav;-0.3216
+WavLM, лише ASVspoof (англ.);drssu_fake;767.wav;-1.2307
+WavLM, лише ASVspoof (англ.);drssu_fake;7705.wav;1.1649
+WavLM, лише ASVspoof (англ.);drssu_fake;7728.wav;2.2988
+WavLM, лише ASVspoof (англ.);drssu_fake;7736.wav;2.0984
+WavLM, лише ASVspoof (англ.);drssu_fake;7793.wav;0.0640
+WavLM, лише ASVspoof (англ.);drssu_fake;7808.wav;-0.3881
+WavLM, лише ASVspoof (англ.);drssu_fake;7809.wav;1.2986
+WavLM, лише ASVspoof (англ.);drssu_fake;7816.wav;-1.7340
+WavLM, лише ASVspoof (англ.);drssu_fake;7852.wav;0.9421
+WavLM, лише ASVspoof (англ.);drssu_fake;7895.wav;-2.6224
+WavLM, лише ASVspoof (англ.);drssu_fake;7962.wav;0.2326
+WavLM, лише ASVspoof (англ.);drssu_fake;7970.wav;0.1115
+WavLM, лише ASVspoof (англ.);drssu_fake;7984.wav;1.0027
+WavLM, лише ASVspoof (англ.);drssu_fake;8017.wav;0.2846
+WavLM, лише ASVspoof (англ.);drssu_fake;8072.wav;2.3815
+WavLM, лише ASVspoof (англ.);drssu_fake;8087.wav;-1.5518
+WavLM, лише ASVspoof (англ.);drssu_fake;8102.wav;0.8214
+WavLM, лише ASVspoof (англ.);drssu_fake;8104.wav;-1.4870
+WavLM, лише ASVspoof (англ.);drssu_fake;817.wav;-0.6432
+WavLM, лише ASVspoof (англ.);drssu_fake;8252.wav;-1.0034
+WavLM, лише ASVspoof (англ.);drssu_fake;8269.wav;-0.7017
+WavLM, лише ASVspoof (англ.);drssu_fake;8323.wav;-0.3257
+WavLM, лише ASVspoof (англ.);drssu_fake;8333.wav;-0.4905
+WavLM, лише ASVspoof (англ.);drssu_fake;8377.wav;1.6904
+WavLM, лише ASVspoof (англ.);drssu_fake;8534.wav;1.7404
+WavLM, лише ASVspoof (англ.);drssu_fake;8542.wav;0.0671
+WavLM, лише ASVspoof (англ.);drssu_fake;8550.wav;-3.1639
+WavLM, лише ASVspoof (англ.);drssu_fake;8595.wav;-1.3302
+WavLM, лише ASVspoof (англ.);drssu_fake;8644.wav;-1.3120
+WavLM, лише ASVspoof (англ.);drssu_fake;8657.wav;1.9375
+WavLM, лише ASVspoof (англ.);drssu_fake;8675.wav;-0.4287
+WavLM, лише ASVspoof (англ.);drssu_fake;8726.wav;-0.9471
+WavLM, лише ASVspoof (англ.);drssu_fake;8753.wav;-1.2383
+WavLM, лише ASVspoof (англ.);drssu_fake;8814.wav;-2.0599
+WavLM, лише ASVspoof (англ.);drssu_fake;8853.wav;-1.7751
+WavLM, лише ASVspoof (англ.);drssu_fake;8858.wav;0.9449
+WavLM, лише ASVspoof (англ.);drssu_fake;8897.wav;2.1290
+WavLM, лише ASVspoof (англ.);drssu_fake;8917.wav;-0.4177
+WavLM, лише ASVspoof (англ.);drssu_fake;8919.wav;-0.6745
+WavLM, лише ASVspoof (англ.);drssu_fake;8966.wav;-1.7192
+WavLM, лише ASVspoof (англ.);drssu_fake;8970.wav;-0.4395
+WavLM, лише ASVspoof (англ.);drssu_fake;8988.wav;-1.3903
+WavLM, лише ASVspoof (англ.);drssu_fake;8990.wav;-2.1036
+WavLM, лише ASVspoof (англ.);drssu_fake;9032.wav;-0.2472
+WavLM, лише ASVspoof (англ.);drssu_fake;9053.wav;-2.2294
+WavLM, лише ASVspoof (англ.);drssu_fake;9149.wav;-0.2615
+WavLM, лише ASVspoof (англ.);drssu_fake;9172.wav;1.0186
+WavLM, лише ASVspoof (англ.);drssu_fake;9185.wav;-1.6319
+WavLM, лише ASVspoof (англ.);drssu_fake;9199.wav;0.8775
+WavLM, лише ASVspoof (англ.);drssu_fake;9298.wav;1.5454
+WavLM, лише ASVspoof (англ.);drssu_fake;9299.wav;-1.6678
+WavLM, лише ASVspoof (англ.);drssu_fake;9309.wav;1.1985
+WavLM, лише ASVspoof (англ.);drssu_fake;9325.wav;0.4963
+WavLM, лише ASVspoof (англ.);drssu_fake;9336.wav;1.7093
+WavLM, лише ASVspoof (англ.);drssu_fake;9403.wav;3.8246
+WavLM, лише ASVspoof (англ.);drssu_fake;9432.wav;-2.0580
+WavLM, лише ASVspoof (англ.);drssu_fake;9437.wav;0.0044
+WavLM, лише ASVspoof (англ.);drssu_fake;9498.wav;2.3598
+WavLM, лише ASVspoof (англ.);drssu_fake;952.wav;1.4865
+WavLM, лише ASVspoof (англ.);drssu_fake;9559.wav;-0.0150
+WavLM, лише ASVspoof (англ.);drssu_fake;9619.wav;0.2424
+WavLM, лише ASVspoof (англ.);drssu_fake;9628.wav;-0.8691
+WavLM, лише ASVspoof (англ.);drssu_fake;9664.wav;-0.1638
+WavLM, лише ASVspoof (англ.);drssu_fake;9672.wav;-1.8461
+WavLM, лише ASVspoof (англ.);drssu_fake;9742.wav;-1.3236
+WavLM, лише ASVspoof (англ.);drssu_fake;9770.wav;-1.5308
+WavLM, лише ASVspoof (англ.);drssu_fake;9773.wav;-0.6886
+WavLM, лише ASVspoof (англ.);drssu_fake;9778.wav;-0.6030
+WavLM, лише ASVspoof (англ.);drssu_fake;9862.wav;-2.7496
+WavLM, лише ASVspoof (англ.);drssu_fake;9866.wav;-0.9223
+WavLM, лише ASVspoof (англ.);drssu_fake;9883.wav;0.6041
+WavLM, лише ASVspoof (англ.);drssu_fake;9896.wav;2.5772
+WavLM, лише ASVspoof (англ.);drssu_fake;9921.wav;0.3673
+WavLM, лише ASVspoof (англ.);drssu_fake;9935.wav;-4.3148
+WavLM, лише ASVspoof (англ.);drssu_fake;9955.wav;-1.0641
+WavLM, лише ASVspoof (англ.);drssu_fake;9968.wav;1.6207
+WavLM, лише ASVspoof (англ.);drssu_fake;9997.wav;0.9544
+WavLM, лише ASVspoof (англ.);drssu_real;10089.wav;-2.2049
+WavLM, лише ASVspoof (англ.);drssu_real;10429.wav;-1.5906
+WavLM, лише ASVspoof (англ.);drssu_real;10546.wav;0.5459
+WavLM, лише ASVspoof (англ.);drssu_real;10567.wav;-0.5561
+WavLM, лише ASVspoof (англ.);drssu_real;10765.wav;0.1756
+WavLM, лише ASVspoof (англ.);drssu_real;10833.wav;-4.8006
+WavLM, лише ASVspoof (англ.);drssu_real;10902.wav;-1.7307
+WavLM, лише ASVspoof (англ.);drssu_real;10926.wav;-4.2514
+WavLM, лише ASVspoof (англ.);drssu_real;10946.wav;-0.6021
+WavLM, лише ASVspoof (англ.);drssu_real;10980.wav;-1.3450
+WavLM, лише ASVspoof (англ.);drssu_real;1102.wav;2.6818
+WavLM, лише ASVspoof (англ.);drssu_real;11046.wav;1.6250
+WavLM, лише ASVspoof (англ.);drssu_real;11060.wav;1.7742
+WavLM, лише ASVspoof (англ.);drssu_real;11084.wav;-2.5196
+WavLM, лише ASVspoof (англ.);drssu_real;11149.wav;0.5516
+WavLM, лише ASVspoof (англ.);drssu_real;11261.wav;1.2626
+WavLM, лише ASVspoof (англ.);drssu_real;1153.wav;3.7818
+WavLM, лише ASVspoof (англ.);drssu_real;11560.wav;-2.7942
+WavLM, лише ASVspoof (англ.);drssu_real;1163.wav;4.9636
+WavLM, лише ASVspoof (англ.);drssu_real;1169.wav;3.3921
+WavLM, лише ASVspoof (англ.);drssu_real;11748.wav;-1.6027
+WavLM, лише ASVspoof (англ.);drssu_real;1178.wav;1.5789
+WavLM, лише ASVspoof (англ.);drssu_real;11827.wav;-3.0981
+WavLM, лише ASVspoof (англ.);drssu_real;11851.wav;-3.3406
+WavLM, лише ASVspoof (англ.);drssu_real;12033.wav;2.4005
+WavLM, лише ASVspoof (англ.);drssu_real;12070.wav;1.7599
+WavLM, лише ASVspoof (англ.);drssu_real;12168.wav;-3.2145
+WavLM, лише ASVspoof (англ.);drssu_real;12307.wav;0.9442
+WavLM, лише ASVspoof (англ.);drssu_real;12388.wav;0.2148
+WavLM, лише ASVspoof (англ.);drssu_real;1240.wav;5.2151
+WavLM, лише ASVspoof (англ.);drssu_real;12420.wav;-3.0461
+WavLM, лише ASVspoof (англ.);drssu_real;12525.wav;3.1487
+WavLM, лише ASVspoof (англ.);drssu_real;12573.wav;3.0012
+WavLM, лише ASVspoof (англ.);drssu_real;12589.wav;-3.2018
+WavLM, лише ASVspoof (англ.);drssu_real;12610.wav;-1.3948
+WavLM, лише ASVspoof (англ.);drssu_real;12671.wav;-2.1605
+WavLM, лише ASVspoof (англ.);drssu_real;12733.wav;2.8250
+WavLM, лише ASVspoof (англ.);drssu_real;12905.wav;-1.5219
+WavLM, лише ASVspoof (англ.);drssu_real;1292.wav;8.5627
+WavLM, лише ASVspoof (англ.);drssu_real;12937.wav;-3.3709
+WavLM, лише ASVspoof (англ.);drssu_real;13041.wav;0.9179
+WavLM, лише ASVspoof (англ.);drssu_real;13212.wav;-3.2390
+WavLM, лише ASVspoof (англ.);drssu_real;13301.wav;-0.4837
+WavLM, лише ASVspoof (англ.);drssu_real;1332.wav;3.5065
+WavLM, лише ASVspoof (англ.);drssu_real;13372.wav;0.5630
+WavLM, лише ASVspoof (англ.);drssu_real;13473.wav;-0.8173
+WavLM, лише ASVspoof (англ.);drssu_real;1351.wav;6.2076
+WavLM, лише ASVspoof (англ.);drssu_real;13590.wav;-8.0230
+WavLM, лише ASVspoof (англ.);drssu_real;13692.wav;-1.9923
+WavLM, лише ASVspoof (англ.);drssu_real;13693.wav;-5.9347
+WavLM, лише ASVspoof (англ.);drssu_real;1380.wav;6.9704
+WavLM, лише ASVspoof (англ.);drssu_real;13863.wav;0.1592
+WavLM, лише ASVspoof (англ.);drssu_real;13869.wav;0.1954
+WavLM, лише ASVspoof (англ.);drssu_real;13972.wav;-1.8717
+WavLM, лише ASVspoof (англ.);drssu_real;13977.wav;-3.0324
+WavLM, лише ASVspoof (англ.);drssu_real;14131.wav;-7.4816
+WavLM, лише ASVspoof (англ.);drssu_real;14698.wav;-1.7559
+WavLM, лише ASVspoof (англ.);drssu_real;14700.wav;0.4717
+WavLM, лише ASVspoof (англ.);drssu_real;14799.wav;-2.9142
+WavLM, лише ASVspoof (англ.);drssu_real;15022.wav;-5.0634
+WavLM, лише ASVspoof (англ.);drssu_real;15098.wav;-6.8272
+WavLM, лише ASVspoof (англ.);drssu_real;15280.wav;-4.9119
+WavLM, лише ASVspoof (англ.);drssu_real;15416.wav;-2.5789
+WavLM, лише ASVspoof (англ.);drssu_real;15533.wav;-3.0820
+WavLM, лише ASVspoof (англ.);drssu_real;15666.wav;-3.1405
+WavLM, лише ASVspoof (англ.);drssu_real;15699.wav;-5.7136
+WavLM, лише ASVspoof (англ.);drssu_real;15768.wav;-4.9258
+WavLM, лише ASVspoof (англ.);drssu_real;15773.wav;0.2943
+WavLM, лише ASVspoof (англ.);drssu_real;15802.wav;-3.3589
+WavLM, лише ASVspoof (англ.);drssu_real;1582.wav;2.4721
+WavLM, лише ASVspoof (англ.);drssu_real;15988.wav;-3.2953
+WavLM, лише ASVspoof (англ.);drssu_real;16012.wav;-1.7347
+WavLM, лише ASVspoof (англ.);drssu_real;16117.wav;-3.6578
+WavLM, лише ASVspoof (англ.);drssu_real;16172.wav;0.9761
+WavLM, лише ASVspoof (англ.);drssu_real;16234.wav;0.9183
+WavLM, лише ASVspoof (англ.);drssu_real;16289.wav;1.5858
+WavLM, лише ASVspoof (англ.);drssu_real;16310.wav;-1.6913
+WavLM, лише ASVspoof (англ.);drssu_real;16333.wav;0.3719
+WavLM, лише ASVspoof (англ.);drssu_real;16340.wav;-3.8016
+WavLM, лише ASVspoof (англ.);drssu_real;16464.wav;2.4531
+WavLM, лише ASVspoof (англ.);drssu_real;16548.wav;-3.1204
+WavLM, лише ASVspoof (англ.);drssu_real;16609.wav;3.0177
+WavLM, лише ASVspoof (англ.);drssu_real;16926.wav;0.7558
+WavLM, лише ASVspoof (англ.);drssu_real;16974.wav;3.3198
+WavLM, лише ASVspoof (англ.);drssu_real;17007.wav;1.2336
+WavLM, лише ASVspoof (англ.);drssu_real;17080.wav;3.8958
+WavLM, лише ASVspoof (англ.);drssu_real;17140.wav;-0.7209
+WavLM, лише ASVspoof (англ.);drssu_real;17207.wav;7.7530
+WavLM, лише ASVspoof (англ.);drssu_real;17230.wav;2.4702
+WavLM, лише ASVspoof (англ.);drssu_real;17361.wav;0.4618
+WavLM, лише ASVspoof (англ.);drssu_real;17545.wav;-4.9585
+WavLM, лише ASVspoof (англ.);drssu_real;17787.wav;-4.9325
+WavLM, лише ASVspoof (англ.);drssu_real;17905.wav;3.0002
+WavLM, лише ASVspoof (англ.);drssu_real;17973.wav;-9.8635
+WavLM, лише ASVspoof (англ.);drssu_real;1820.wav;1.9428
+WavLM, лише ASVspoof (англ.);drssu_real;18235.wav;-7.5622
+WavLM, лише ASVspoof (англ.);drssu_real;18378.wav;-7.5337
+WavLM, лише ASVspoof (англ.);drssu_real;18479.wav;0.4820
+WavLM, лише ASVspoof (англ.);drssu_real;18498.wav;1.8991
+WavLM, лише ASVspoof (англ.);drssu_real;18687.wav;-0.8095
+WavLM, лише ASVspoof (англ.);drssu_real;18805.wav;8.0732
+WavLM, лише ASVspoof (англ.);drssu_real;19103.wav;-11.6939
+WavLM, лише ASVspoof (англ.);drssu_real;19119.wav;-10.8815
+WavLM, лише ASVspoof (англ.);drssu_real;19166.wav;-10.8575
+WavLM, лише ASVspoof (англ.);drssu_real;19177.wav;-12.3075
+WavLM, лише ASVspoof (англ.);drssu_real;19215.wav;-15.4586
+WavLM, лише ASVspoof (англ.);drssu_real;19239.wav;-12.2313
+WavLM, лише ASVspoof (англ.);drssu_real;19538.wav;0.4884
+WavLM, лише ASVspoof (англ.);drssu_real;19616.wav;-0.9862
+WavLM, лише ASVspoof (англ.);drssu_real;19666.wav;-0.5834
+WavLM, лише ASVspoof (англ.);drssu_real;19726.wav;4.5753
+WavLM, лише ASVspoof (англ.);drssu_real;19746.wav;0.6506
+WavLM, лише ASVspoof (англ.);drssu_real;19905.wav;0.9196
+WavLM, лише ASVspoof (англ.);drssu_real;19981.wav;-5.0952
+WavLM, лише ASVspoof (англ.);drssu_real;2004.wav;4.3268
+WavLM, лише ASVspoof (англ.);drssu_real;20047.wav;-0.2616
+WavLM, лише ASVspoof (англ.);drssu_real;20334.wav;3.4473
+WavLM, лише ASVspoof (англ.);drssu_real;2041.wav;7.3467
+WavLM, лише ASVspoof (англ.);drssu_real;20429.wav;2.0081
+WavLM, лише ASVspoof (англ.);drssu_real;20538.wav;0.4845
+WavLM, лише ASVspoof (англ.);drssu_real;20810.wav;-7.8925
+WavLM, лише ASVspoof (англ.);drssu_real;20918.wav;-5.1112
+WavLM, лише ASVspoof (англ.);drssu_real;2093.wav;2.2373
+WavLM, лише ASVspoof (англ.);drssu_real;20935.wav;-11.3069
+WavLM, лише ASVspoof (англ.);drssu_real;21004.wav;-8.1570
+WavLM, лише ASVspoof (англ.);drssu_real;21005.wav;-9.4279
+WavLM, лише ASVspoof (англ.);drssu_real;21499.wav;-8.6081
+WavLM, лише ASVspoof (англ.);drssu_real;2151.wav;2.4051
+WavLM, лише ASVspoof (англ.);drssu_real;21529.wav;-11.0692
+WavLM, лише ASVspoof (англ.);drssu_real;2158.wav;3.5515
+WavLM, лише ASVspoof (англ.);drssu_real;2175.wav;1.7307
+WavLM, лише ASVspoof (англ.);drssu_real;21957.wav;-13.3310
+WavLM, лише ASVspoof (англ.);drssu_real;22071.wav;-15.4144
+WavLM, лише ASVspoof (англ.);drssu_real;22182.wav;-9.9124
+WavLM, лише ASVspoof (англ.);drssu_real;22236.wav;-10.2997
+WavLM, лише ASVspoof (англ.);drssu_real;22260.wav;-4.8134
+WavLM, лише ASVspoof (англ.);drssu_real;22280.wav;-6.7509
+WavLM, лише ASVspoof (англ.);drssu_real;22516.wav;1.9293
+WavLM, лише ASVspoof (англ.);drssu_real;22895.wav;-1.2783
+WavLM, лише ASVspoof (англ.);drssu_real;22925.wav;2.4840
+WavLM, лише ASVspoof (англ.);drssu_real;23004.wav;-0.2083
+WavLM, лише ASVspoof (англ.);drssu_real;23121.wav;-10.7201
+WavLM, лише ASVspoof (англ.);drssu_real;23147.wav;-12.7223
+WavLM, лише ASVspoof (англ.);drssu_real;2323.wav;4.5049
+WavLM, лише ASVspoof (англ.);drssu_real;23410.wav;-0.2499
+WavLM, лише ASVspoof (англ.);drssu_real;23501.wav;4.8437
+WavLM, лише ASVspoof (англ.);drssu_real;23532.wav;3.3692
+WavLM, лише ASVspoof (англ.);drssu_real;23544.wav;1.2770
+WavLM, лише ASVspoof (англ.);drssu_real;23877.wav;-10.2196
+WavLM, лише ASVspoof (англ.);drssu_real;23903.wav;-8.4805
+WavLM, лише ASVspoof (англ.);drssu_real;23938.wav;-9.3560
+WavLM, лише ASVspoof (англ.);drssu_real;24077.wav;5.1784
+WavLM, лише ASVspoof (англ.);drssu_real;24273.wav;-0.1787
+WavLM, лише ASVspoof (англ.);drssu_real;24477.wav;3.6378
+WavLM, лише ASVspoof (англ.);drssu_real;24479.wav;1.4172
+WavLM, лише ASVspoof (англ.);drssu_real;24572.wav;-0.0330
+WavLM, лише ASVspoof (англ.);drssu_real;24656.wav;-10.5446
+WavLM, лише ASVspoof (англ.);drssu_real;24728.wav;-7.4462
+WavLM, лише ASVspoof (англ.);drssu_real;24834.wav;0.0586
+WavLM, лише ASVspoof (англ.);drssu_real;24868.wav;-0.3088
+WavLM, лише ASVspoof (англ.);drssu_real;2503.wav;4.1716
+WavLM, лише ASVspoof (англ.);drssu_real;25313.wav;-0.4715
+WavLM, лише ASVspoof (англ.);drssu_real;25465.wav;1.1217
+WavLM, лише ASVspoof (англ.);drssu_real;25540.wav;-5.0724
+WavLM, лише ASVspoof (англ.);drssu_real;25696.wav;-3.4335
+WavLM, лише ASVspoof (англ.);drssu_real;258.wav;3.0193
+WavLM, лише ASVspoof (англ.);drssu_real;25831.wav;-0.5965
+WavLM, лише ASVspoof (англ.);drssu_real;25875.wav;0.1655
+WavLM, лише ASVspoof (англ.);drssu_real;25921.wav;0.1634
+WavLM, лише ASVspoof (англ.);drssu_real;26023.wav;1.5692
+WavLM, лише ASVspoof (англ.);drssu_real;26131.wav;-2.3101
+WavLM, лише ASVspoof (англ.);drssu_real;26145.wav;-5.2865
+WavLM, лише ASVspoof (англ.);drssu_real;26151.wav;-2.5156
+WavLM, лише ASVspoof (англ.);drssu_real;26213.wav;-2.5513
+WavLM, лише ASVspoof (англ.);drssu_real;26236.wav;-9.6193
+WavLM, лише ASVspoof (англ.);drssu_real;26382.wav;-4.5292
+WavLM, лише ASVspoof (англ.);drssu_real;26415.wav;-3.8567
+WavLM, лише ASVspoof (англ.);drssu_real;26446.wav;-5.2932
+WavLM, лише ASVspoof (англ.);drssu_real;26470.wav;0.2732
+WavLM, лише ASVspoof (англ.);drssu_real;26544.wav;1.8286
+WavLM, лише ASVspoof (англ.);drssu_real;26552.wav;-5.2176
+WavLM, лише ASVspoof (англ.);drssu_real;26619.wav;-5.0469
+WavLM, лише ASVspoof (англ.);drssu_real;2675.wav;2.6006
+WavLM, лише ASVspoof (англ.);drssu_real;26809.wav;-9.3969
+WavLM, лише ASVspoof (англ.);drssu_real;26935.wav;1.2218
+WavLM, лише ASVspoof (англ.);drssu_real;27035.wav;7.0391
+WavLM, лише ASVspoof (англ.);drssu_real;27057.wav;3.7448
+WavLM, лише ASVspoof (англ.);drssu_real;27099.wav;4.2397
+WavLM, лише ASVspoof (англ.);drssu_real;27196.wav;5.5691
+WavLM, лише ASVspoof (англ.);drssu_real;27314.wav;2.3028
+WavLM, лише ASVspoof (англ.);drssu_real;27380.wav;4.0934
+WavLM, лише ASVspoof (англ.);drssu_real;2742.wav;6.8139
+WavLM, лише ASVspoof (англ.);drssu_real;27553.wav;1.4513
+WavLM, лише ASVspoof (англ.);drssu_real;27602.wav;-0.6762
+WavLM, лише ASVspoof (англ.);drssu_real;27655.wav;-0.9732
+WavLM, лише ASVspoof (англ.);drssu_real;27706.wav;-2.0538
+WavLM, лише ASVspoof (англ.);drssu_real;2774.wav;3.3344
+WavLM, лише ASVspoof (англ.);drssu_real;2775.wav;4.2419
+WavLM, лише ASVspoof (англ.);drssu_real;27896.wav;1.7752
+WavLM, лише ASVspoof (англ.);drssu_real;27947.wav;1.1274
+WavLM, лише ASVspoof (англ.);drssu_real;28084.wav;0.4453
+WavLM, лише ASVspoof (англ.);drssu_real;28177.wav;3.7788
+WavLM, лише ASVspoof (англ.);drssu_real;28243.wav;0.0080
+WavLM, лише ASVspoof (англ.);drssu_real;28290.wav;3.0668
+WavLM, лише ASVspoof (англ.);drssu_real;28298.wav;2.2220
+WavLM, лише ASVspoof (англ.);drssu_real;28338.wav;1.5388
+WavLM, лише ASVspoof (англ.);drssu_real;28466.wav;-7.6674
+WavLM, лише ASVspoof (англ.);drssu_real;28472.wav;-3.9609
+WavLM, лише ASVspoof (англ.);drssu_real;2849.wav;3.3552
+WavLM, лише ASVspoof (англ.);drssu_real;28656.wav;-5.3075
+WavLM, лише ASVspoof (англ.);drssu_real;28663.wav;0.9707
+WavLM, лише ASVspoof (англ.);drssu_real;28760.wav;-6.4761
+WavLM, лише ASVspoof (англ.);drssu_real;29009.wav;-6.5760
+WavLM, лише ASVspoof (англ.);drssu_real;29091.wav;7.9231
+WavLM, лише ASVspoof (англ.);drssu_real;29163.wav;4.7919
+WavLM, лише ASVspoof (англ.);drssu_real;292.wav;3.8289
+WavLM, лише ASVspoof (англ.);drssu_real;29308.wav;-3.4681
+WavLM, лише ASVspoof (англ.);drssu_real;29459.wav;1.0250
+WavLM, лише ASVspoof (англ.);drssu_real;29527.wav;1.1096
+WavLM, лише ASVspoof (англ.);drssu_real;29529.wav;0.9660
+WavLM, лише ASVspoof (англ.);drssu_real;29590.wav;1.2608
+WavLM, лише ASVspoof (англ.);drssu_real;29681.wav;2.4909
+WavLM, лише ASVspoof (англ.);drssu_real;2971.wav;3.1889
+WavLM, лише ASVspoof (англ.);drssu_real;29775.wav;-4.9499
+WavLM, лише ASVspoof (англ.);drssu_real;30000.wav;-1.6084
+WavLM, лише ASVspoof (англ.);drssu_real;3071.wav;0.0457
+WavLM, лише ASVspoof (англ.);drssu_real;319.wav;4.7760
+WavLM, лише ASVspoof (англ.);drssu_real;3214.wav;2.8538
+WavLM, лише ASVspoof (англ.);drssu_real;3258.wav;3.9900
+WavLM, лише ASVspoof (англ.);drssu_real;3429.wav;0.8990
+WavLM, лише ASVspoof (англ.);drssu_real;3433.wav;1.1337
+WavLM, лише ASVspoof (англ.);drssu_real;3561.wav;4.2376
+WavLM, лише ASVspoof (англ.);drssu_real;3765.wav;5.9190
+WavLM, лише ASVspoof (англ.);drssu_real;3769.wav;2.0642
+WavLM, лише ASVspoof (англ.);drssu_real;3802.wav;1.0782
+WavLM, лише ASVspoof (англ.);drssu_real;3897.wav;5.7463
+WavLM, лише ASVspoof (англ.);drssu_real;4074.wav;4.1450
+WavLM, лише ASVspoof (англ.);drssu_real;4173.wav;3.4806
+WavLM, лише ASVspoof (англ.);drssu_real;4249.wav;3.5968
+WavLM, лише ASVspoof (англ.);drssu_real;4277.wav;3.6021
+WavLM, лише ASVspoof (англ.);drssu_real;4537.wav;3.6341
+WavLM, лише ASVspoof (англ.);drssu_real;4618.wav;5.1639
+WavLM, лише ASVspoof (англ.);drssu_real;4796.wav;3.0453
+WavLM, лише ASVspoof (англ.);drssu_real;4862.wav;2.5989
+WavLM, лише ASVspoof (англ.);drssu_real;4863.wav;4.3164
+WavLM, лише ASVspoof (англ.);drssu_real;4877.wav;4.4702
+WavLM, лише ASVspoof (англ.);drssu_real;4897.wav;4.0968
+WavLM, лише ASVspoof (англ.);drssu_real;4949.wav;4.3590
+WavLM, лише ASVspoof (англ.);drssu_real;4959.wav;2.0087
+WavLM, лише ASVspoof (англ.);drssu_real;4961.wav;2.3036
+WavLM, лише ASVspoof (англ.);drssu_real;501.wav;3.3451
+WavLM, лише ASVspoof (англ.);drssu_real;5101.wav;2.7121
+WavLM, лише ASVspoof (англ.);drssu_real;5109.wav;3.7690
+WavLM, лише ASVspoof (англ.);drssu_real;5266.wav;3.1662
+WavLM, лише ASVspoof (англ.);drssu_real;5368.wav;1.7798
+WavLM, лише ASVspoof (англ.);drssu_real;5370.wav;5.1818
+WavLM, лише ASVspoof (англ.);drssu_real;5458.wav;5.1391
+WavLM, лише ASVspoof (англ.);drssu_real;5459.wav;0.9071
+WavLM, лише ASVspoof (англ.);drssu_real;5885.wav;6.6200
+WavLM, лише ASVspoof (англ.);drssu_real;5963.wav;1.9900
+WavLM, лише ASVspoof (англ.);drssu_real;6290.wav;3.8373
+WavLM, лише ASVspoof (англ.);drssu_real;6488.wav;4.9831
+WavLM, лише ASVspoof (англ.);drssu_real;6490.wav;4.4990
+WavLM, лише ASVspoof (англ.);drssu_real;6609.wav;-2.9858
+WavLM, лише ASVspoof (англ.);drssu_real;6619.wav;-2.3122
+WavLM, лише ASVspoof (англ.);drssu_real;672.wav;1.0369
+WavLM, лише ASVspoof (англ.);drssu_real;6754.wav;0.3934
+WavLM, лише ASVspoof (англ.);drssu_real;6791.wav;-2.9716
+WavLM, лише ASVspoof (англ.);drssu_real;6811.wav;-1.7921
+WavLM, лише ASVspoof (англ.);drssu_real;7075.wav;-1.5797
+WavLM, лише ASVspoof (англ.);drssu_real;7119.wav;0.7359
+WavLM, лише ASVspoof (англ.);drssu_real;7169.wav;-5.5134
+WavLM, лише ASVspoof (англ.);drssu_real;7214.wav;-3.5834
+WavLM, лише ASVspoof (англ.);drssu_real;7244.wav;1.2065
+WavLM, лише ASVspoof (англ.);drssu_real;7376.wav;0.1926
+WavLM, лише ASVspoof (англ.);drssu_real;7654.wav;2.5305
+WavLM, лише ASVspoof (англ.);drssu_real;7830.wav;2.5631
+WavLM, лише ASVspoof (англ.);drssu_real;7855.wav;0.5610
+WavLM, лише ASVspoof (англ.);drssu_real;8.wav;4.3420
+WavLM, лише ASVspoof (англ.);drssu_real;8339.wav;2.1049
+WavLM, лише ASVspoof (англ.);drssu_real;8405.wav;-5.7390
+WavLM, лише ASVspoof (англ.);drssu_real;8418.wav;-4.0709
+WavLM, лише ASVspoof (англ.);drssu_real;8550.wav;1.6114
+WavLM, лише ASVspoof (англ.);drssu_real;8586.wav;6.2075
+WavLM, лише ASVspoof (англ.);drssu_real;8835.wav;1.4339
+WavLM, лише ASVspoof (англ.);drssu_real;8893.wav;-5.9392
+WavLM, лише ASVspoof (англ.);drssu_real;906.wav;2.4877
+WavLM, лише ASVspoof (англ.);drssu_real;9408.wav;-0.9723
+WavLM, лише ASVspoof (англ.);drssu_real;9488.wav;-1.8178
+WavLM, лише ASVspoof (англ.);drssu_real;9492.wav;-3.7295
+WavLM, лише ASVspoof (англ.);drssu_real;9497.wav;-0.1831
+WavLM, лише ASVspoof (англ.);drssu_real;9537.wav;3.1877
+WavLM, лише ASVspoof (англ.);drssu_real;9615.wav;-2.9153
+WavLM, лише ASVspoof (англ.);drssu_real;9647.wav;1.8653
+WavLM, лише ASVspoof (англ.);drssu_real;9806.wav;1.1567
+WavLM, лише ASVspoof (англ.);drssu_real;9846.wav;0.5230
+WavLM, лише ASVspoof (англ.);drssu_real;9893.wav;0.4828
+WavLM, лише ASVspoof (англ.);drssu_real;9911.wav;-0.4062
+WavLM, лише ASVspoof (англ.);drssu_real;9918.wav;2.2339
+WavLM, лише ASVspoof (англ.);drssu_real;9923.wav;2.4988
+WavLM, лише ASVspoof (англ.);fleurs_real;000.wav;2.8903
+WavLM, лише ASVspoof (англ.);fleurs_real;001.wav;2.1967
+WavLM, лише ASVspoof (англ.);fleurs_real;002.wav;1.4543
+WavLM, лише ASVspoof (англ.);fleurs_real;003.wav;1.2844
+WavLM, лише ASVspoof (англ.);fleurs_real;004.wav;-2.4586
+WavLM, лише ASVspoof (англ.);fleurs_real;005.wav;-0.1880
+WavLM, лише ASVspoof (англ.);fleurs_real;006.wav;0.2594
+WavLM, лише ASVspoof (англ.);fleurs_real;007.wav;0.3986
+WavLM, лише ASVspoof (англ.);fleurs_real;008.wav;0.8911
+WavLM, лише ASVspoof (англ.);fleurs_real;009.wav;1.5086
+WavLM, лише ASVspoof (англ.);fleurs_real;010.wav;-0.1134
+WavLM, лише ASVspoof (англ.);fleurs_real;011.wav;-1.9750
+WavLM, лише ASVspoof (англ.);fleurs_real;012.wav;0.5629
+WavLM, лише ASVspoof (англ.);fleurs_real;013.wav;2.9538
+WavLM, лише ASVspoof (англ.);fleurs_real;014.wav;1.0786
+WavLM, лише ASVspoof (англ.);fleurs_real;015.wav;-0.0038
+WavLM, лише ASVspoof (англ.);fleurs_real;016.wav;4.0196
+WavLM, лише ASVspoof (англ.);fleurs_real;017.wav;2.8347
+WavLM, лише ASVspoof (англ.);fleurs_real;018.wav;-0.5310
+WavLM, лише ASVspoof (англ.);fleurs_real;019.wav;3.3368
+WavLM, лише ASVspoof (англ.);fleurs_real;020.wav;0.2884
+WavLM, лише ASVspoof (англ.);fleurs_real;021.wav;1.6993
+WavLM, лише ASVspoof (англ.);fleurs_real;022.wav;-2.1403
+WavLM, лише ASVspoof (англ.);fleurs_real;023.wav;0.1433
+WavLM, лише ASVspoof (англ.);fleurs_real;024.wav;1.8237
+WavLM, лише ASVspoof (англ.);fleurs_real;025.wav;1.2325
+WavLM, лише ASVspoof (англ.);fleurs_real;026.wav;3.2438
+WavLM, лише ASVspoof (англ.);fleurs_real;027.wav;2.6455
+WavLM, лише ASVspoof (англ.);fleurs_real;028.wav;2.2820
+WavLM, лише ASVspoof (англ.);fleurs_real;029.wav;-0.2958
+WavLM, лише ASVspoof (англ.);fleurs_real;030.wav;-0.7832
+WavLM, лише ASVspoof (англ.);fleurs_real;031.wav;3.5905
+WavLM, лише ASVspoof (англ.);fleurs_real;032.wav;-0.2832
+WavLM, лише ASVspoof (англ.);fleurs_real;033.wav;4.3340
+WavLM, лише ASVspoof (англ.);fleurs_real;034.wav;1.4352
+WavLM, лише ASVspoof (англ.);fleurs_real;035.wav;1.6821
+WavLM, лише ASVspoof (англ.);fleurs_real;036.wav;1.7938
+WavLM, лише ASVspoof (англ.);fleurs_real;037.wav;-2.6439
+WavLM, лише ASVspoof (англ.);fleurs_real;038.wav;-0.4090
+WavLM, лише ASVspoof (англ.);fleurs_real;039.wav;-0.0226
+WavLM, лише ASVspoof (англ.);fleurs_real;040.wav;-0.0914
+WavLM, лише ASVspoof (англ.);fleurs_real;041.wav;5.1950
+WavLM, лише ASVspoof (англ.);fleurs_real;042.wav;1.7836
+WavLM, лише ASVspoof (англ.);fleurs_real;043.wav;2.1882
+WavLM, лише ASVspoof (англ.);fleurs_real;044.wav;3.0125
+WavLM, лише ASVspoof (англ.);fleurs_real;045.wav;2.4486
+WavLM, лише ASVspoof (англ.);fleurs_real;046.wav;-3.2658
+WavLM, лише ASVspoof (англ.);fleurs_real;047.wav;2.3101
+WavLM, лише ASVspoof (англ.);fleurs_real;048.wav;0.1093
+WavLM, лише ASVspoof (англ.);fleurs_real;049.wav;0.2810
+WavLM, лише ASVspoof (англ.);fleurs_real;050.wav;-1.1390
+WavLM, лише ASVspoof (англ.);fleurs_real;051.wav;2.0477
+WavLM, лише ASVspoof (англ.);fleurs_real;052.wav;-1.9723
+WavLM, лише ASVspoof (англ.);fleurs_real;053.wav;3.2247
+WavLM, лише ASVspoof (англ.);fleurs_real;054.wav;-1.9261
+WavLM, лише ASVspoof (англ.);fleurs_real;055.wav;2.0345
+WavLM, лише ASVspoof (англ.);fleurs_real;056.wav;1.2263
+WavLM, лише ASVspoof (англ.);fleurs_real;057.wav;0.5750
+WavLM, лише ASVspoof (англ.);fleurs_real;058.wav;-1.7876
+WavLM, лише ASVspoof (англ.);fleurs_real;059.wav;2.4199
+WavLM, лише ASVspoof (англ.);fleurs_real;060.wav;-3.9087
+WavLM, лише ASVspoof (англ.);fleurs_real;061.wav;0.7164
+WavLM, лише ASVspoof (англ.);fleurs_real;062.wav;0.7611
+WavLM, лише ASVspoof (англ.);fleurs_real;063.wav;-0.5694
+WavLM, лише ASVspoof (англ.);fleurs_real;064.wav;-1.3587
+WavLM, лише ASVspoof (англ.);fleurs_real;065.wav;1.1043
+WavLM, лише ASVspoof (англ.);fleurs_real;066.wav;2.4212
+WavLM, лише ASVspoof (англ.);fleurs_real;067.wav;0.9426
+WavLM, лише ASVspoof (англ.);fleurs_real;068.wav;2.9304
+WavLM, лише ASVspoof (англ.);fleurs_real;069.wav;2.6973
+WavLM, лише ASVspoof (англ.);fleurs_real;070.wav;-0.6819
+WavLM, лише ASVspoof (англ.);fleurs_real;071.wav;5.4744
+WavLM, лише ASVspoof (англ.);fleurs_real;072.wav;0.2693
+WavLM, лише ASVspoof (англ.);fleurs_real;073.wav;2.4078
+WavLM, лише ASVspoof (англ.);fleurs_real;074.wav;-3.1088
+WavLM, лише ASVspoof (англ.);fleurs_real;075.wav;3.7711
+WavLM, лише ASVspoof (англ.);fleurs_real;076.wav;0.3736
+WavLM, лише ASVspoof (англ.);fleurs_real;077.wav;0.8533
+WavLM, лише ASVspoof (англ.);fleurs_real;078.wav;3.8802
+WavLM, лише ASVspoof (англ.);fleurs_real;079.wav;1.5450
+WavLM, лише ASVspoof (англ.);fleurs_real;080.wav;2.1448
+WavLM, лише ASVspoof (англ.);fleurs_real;081.wav;1.6607
+WavLM, лише ASVspoof (англ.);fleurs_real;082.wav;4.1239
+WavLM, лише ASVspoof (англ.);fleurs_real;083.wav;0.4787
+WavLM, лише ASVspoof (англ.);fleurs_real;084.wav;1.7705
+WavLM, лише ASVspoof (англ.);fleurs_real;085.wav;-0.1759
+WavLM, лише ASVspoof (англ.);fleurs_real;086.wav;0.9663
+WavLM, лише ASVspoof (англ.);fleurs_real;087.wav;-0.4910
+WavLM, лише ASVspoof (англ.);fleurs_real;088.wav;-3.6438
+WavLM, лише ASVspoof (англ.);fleurs_real;089.wav;1.2879
+WavLM, лише ASVspoof (англ.);fleurs_real;090.wav;1.5934
+WavLM, лише ASVspoof (англ.);fleurs_real;091.wav;-0.1837
+WavLM, лише ASVspoof (англ.);fleurs_real;092.wav;-2.1985
+WavLM, лише ASVspoof (англ.);fleurs_real;093.wav;3.0505
+WavLM, лише ASVspoof (англ.);fleurs_real;094.wav;2.2399
+WavLM, лише ASVspoof (англ.);fleurs_real;095.wav;0.1129
+WavLM, лише ASVspoof (англ.);fleurs_real;096.wav;-1.5782
+WavLM, лише ASVspoof (англ.);fleurs_real;097.wav;3.3005
+WavLM, лише ASVspoof (англ.);fleurs_real;098.wav;2.9607
+WavLM, лише ASVspoof (англ.);fleurs_real;099.wav;1.7842
+WavLM, лише ASVspoof (англ.);fleurs_real;100.wav;0.4948
+WavLM, лише ASVspoof (англ.);fleurs_real;101.wav;1.4312
+WavLM, лише ASVspoof (англ.);fleurs_real;102.wav;0.7575
+WavLM, лише ASVspoof (англ.);fleurs_real;103.wav;1.5456
+WavLM, лише ASVspoof (англ.);fleurs_real;104.wav;-1.9292
+WavLM, лише ASVspoof (англ.);fleurs_real;105.wav;2.6057
+WavLM, лише ASVspoof (англ.);fleurs_real;106.wav;-0.3046
+WavLM, лише ASVspoof (англ.);fleurs_real;107.wav;0.7464
+WavLM, лише ASVspoof (англ.);fleurs_real;108.wav;2.2695
+WavLM, лише ASVspoof (англ.);fleurs_real;109.wav;3.2668
+WavLM, лише ASVspoof (англ.);fleurs_real;110.wav;0.2023
+WavLM, лише ASVspoof (англ.);fleurs_real;111.wav;1.8631
+WavLM, лише ASVspoof (англ.);fleurs_real;112.wav;2.4691
+WavLM, лише ASVspoof (англ.);fleurs_real;113.wav;-1.3467
+WavLM, лише ASVspoof (англ.);fleurs_real;114.wav;-0.0201
+WavLM, лише ASVspoof (англ.);fleurs_real;115.wav;-0.9082
+WavLM, лише ASVspoof (англ.);fleurs_real;116.wav;3.2902
+WavLM, лише ASVspoof (англ.);fleurs_real;117.wav;2.4430
+WavLM, лише ASVspoof (англ.);fleurs_real;118.wav;1.4593
+WavLM, лише ASVspoof (англ.);fleurs_real;119.wav;1.1600
+WavLM, лише ASVspoof (англ.);fleurs_real;120.wav;-3.3992
+WavLM, лише ASVspoof (англ.);fleurs_real;121.wav;0.4368
+WavLM, лише ASVspoof (англ.);fleurs_real;122.wav;3.8919
+WavLM, лише ASVspoof (англ.);fleurs_real;123.wav;0.3271
+WavLM, лише ASVspoof (англ.);fleurs_real;124.wav;2.6239
+WavLM, лише ASVspoof (англ.);fleurs_real;125.wav;1.2607
+WavLM, лише ASVspoof (англ.);fleurs_real;126.wav;2.0108
+WavLM, лише ASVspoof (англ.);fleurs_real;127.wav;2.6678
+WavLM, лише ASVspoof (англ.);fleurs_real;128.wav;-0.0207
+WavLM, лише ASVspoof (англ.);fleurs_real;129.wav;0.4507
+WavLM, лише ASVspoof (англ.);fleurs_real;130.wav;-3.8535
+WavLM, лише ASVspoof (англ.);fleurs_real;131.wav;-6.7136
+WavLM, лише ASVspoof (англ.);fleurs_real;132.wav;0.3774
+WavLM, лише ASVspoof (англ.);fleurs_real;133.wav;-1.2921
+WavLM, лише ASVspoof (англ.);fleurs_real;134.wav;1.3773
+WavLM, лише ASVspoof (англ.);fleurs_real;135.wav;0.9051
+WavLM, лише ASVspoof (англ.);fleurs_real;136.wav;3.5019
+WavLM, лише ASVspoof (англ.);fleurs_real;137.wav;4.0854
+WavLM, лише ASVspoof (англ.);fleurs_real;138.wav;1.4527
+WavLM, лише ASVspoof (англ.);fleurs_real;139.wav;-0.6458
+WavLM, лише ASVspoof (англ.);fleurs_real;140.wav;-2.8168
+WavLM, лише ASVspoof (англ.);fleurs_real;141.wav;4.6152
+WavLM, лише ASVspoof (англ.);fleurs_real;142.wav;1.2753
+WavLM, лише ASVspoof (англ.);fleurs_real;143.wav;-1.1317
+WavLM, лише ASVspoof (англ.);fleurs_real;144.wav;-0.6224
+WavLM, лише ASVspoof (англ.);fleurs_real;145.wav;-0.7370
+WavLM, лише ASVspoof (англ.);fleurs_real;146.wav;0.4330
+WavLM, лише ASVspoof (англ.);fleurs_real;147.wav;1.5039
+WavLM, лише ASVspoof (англ.);fleurs_real;148.wav;3.9580
+WavLM, лише ASVspoof (англ.);fleurs_real;149.wav;2.6817
+WavLM, лише ASVspoof (англ.);fleurs_real;150.wav;1.2614
+WavLM, лише ASVspoof (англ.);fleurs_real;151.wav;4.0284
+WavLM, лише ASVspoof (англ.);fleurs_real;152.wav;0.4588
+WavLM, лише ASVspoof (англ.);fleurs_real;153.wav;3.1663
+WavLM, лише ASVspoof (англ.);fleurs_real;154.wav;2.5303
+WavLM, лише ASVspoof (англ.);fleurs_real;155.wav;0.4400
+WavLM, лише ASVspoof (англ.);fleurs_real;156.wav;-4.3382
+WavLM, лише ASVspoof (англ.);fleurs_real;157.wav;3.0364
+WavLM, лише ASVspoof (англ.);fleurs_real;158.wav;0.1634
+WavLM, лише ASVspoof (англ.);fleurs_real;159.wav;0.0894
+WavLM, лише ASVspoof (англ.);fleurs_real;160.wav;1.3904
+WavLM, лише ASVspoof (англ.);fleurs_real;161.wav;-1.0728
+WavLM, лише ASVspoof (англ.);fleurs_real;162.wav;-0.6030
+WavLM, лише ASVspoof (англ.);fleurs_real;163.wav;2.9903
+WavLM, лише ASVspoof (англ.);fleurs_real;164.wav;0.7638
+WavLM, лише ASVspoof (англ.);fleurs_real;165.wav;-1.7741
+WavLM, лише ASVspoof (англ.);fleurs_real;166.wav;3.1505
+WavLM, лише ASVspoof (англ.);fleurs_real;167.wav;2.1502
+WavLM, лише ASVspoof (англ.);fleurs_real;168.wav;2.9981
+WavLM, лише ASVspoof (англ.);fleurs_real;169.wav;2.2826
+WavLM, лише ASVspoof (англ.);fleurs_real;170.wav;1.1597
+WavLM, лише ASVspoof (англ.);fleurs_real;171.wav;-0.3785
+WavLM, лише ASVspoof (англ.);fleurs_real;172.wav;1.8907
+WavLM, лише ASVspoof (англ.);fleurs_real;173.wav;1.5768
+WavLM, лише ASVspoof (англ.);fleurs_real;174.wav;0.2956
+WavLM, лише ASVspoof (англ.);fleurs_real;175.wav;1.1127
+WavLM, лише ASVspoof (англ.);fleurs_real;176.wav;0.2539
+WavLM, лише ASVspoof (англ.);fleurs_real;177.wav;-0.0750
+WavLM, лише ASVspoof (англ.);fleurs_real;178.wav;-1.7452
+WavLM, лише ASVspoof (англ.);fleurs_real;179.wav;0.5443
+WavLM, лише ASVspoof (англ.);fleurs_real;180.wav;2.4225
+WavLM, лише ASVspoof (англ.);fleurs_real;181.wav;0.3482
+WavLM, лише ASVspoof (англ.);fleurs_real;182.wav;2.1006
+WavLM, лише ASVspoof (англ.);fleurs_real;183.wav;0.4222
+WavLM, лише ASVspoof (англ.);fleurs_real;184.wav;-0.1811
+WavLM, лише ASVspoof (англ.);fleurs_real;185.wav;-2.7328
+WavLM, лише ASVspoof (англ.);fleurs_real;186.wav;3.6421
+WavLM, лише ASVspoof (англ.);fleurs_real;187.wav;4.2872
+WavLM, лише ASVspoof (англ.);fleurs_real;188.wav;1.8492
+WavLM, лише ASVspoof (англ.);fleurs_real;189.wav;2.1669
+WavLM, лише ASVspoof (англ.);fleurs_real;190.wav;2.4020
+WavLM, лише ASVspoof (англ.);fleurs_real;191.wav;0.5056
+WavLM, лише ASVspoof (англ.);fleurs_real;192.wav;1.3882
+WavLM, лише ASVspoof (англ.);fleurs_real;193.wav;2.8857
+WavLM, лише ASVspoof (англ.);fleurs_real;194.wav;1.4082
+WavLM, лише ASVspoof (англ.);fleurs_real;195.wav;2.2042
+WavLM, лише ASVspoof (англ.);fleurs_real;196.wav;0.0816
+WavLM, лише ASVspoof (англ.);fleurs_real;197.wav;-1.3430
+WavLM, лише ASVspoof (англ.);fleurs_real;198.wav;2.2355
+WavLM, лише ASVspoof (англ.);fleurs_real;199.wav;1.6649
+WavLM, лише ASVspoof (англ.);fleurs_real;200.wav;0.4569
+WavLM, лише ASVspoof (англ.);fleurs_real;201.wav;-0.8159
+WavLM, лише ASVspoof (англ.);fleurs_real;202.wav;1.1752
+WavLM, лише ASVspoof (англ.);fleurs_real;203.wav;0.5540
+WavLM, лише ASVspoof (англ.);fleurs_real;204.wav;1.1473
+WavLM, лише ASVspoof (англ.);fleurs_real;205.wav;2.3646
+WavLM, лише ASVspoof (англ.);fleurs_real;206.wav;-1.5995
+WavLM, лише ASVspoof (англ.);fleurs_real;207.wav;-4.2185
+WavLM, лише ASVspoof (англ.);fleurs_real;208.wav;0.3123
+WavLM, лише ASVspoof (англ.);fleurs_real;209.wav;0.3604
+WavLM, лише ASVspoof (англ.);fleurs_real;210.wav;2.3110
+WavLM, лише ASVspoof (англ.);fleurs_real;211.wav;0.4129
+WavLM, лише ASVspoof (англ.);fleurs_real;212.wav;2.6657
+WavLM, лише ASVspoof (англ.);fleurs_real;213.wav;4.0207
+WavLM, лише ASVspoof (англ.);fleurs_real;214.wav;-3.0090
+WavLM, лише ASVspoof (англ.);fleurs_real;215.wav;0.4716
+WavLM, лише ASVspoof (англ.);fleurs_real;216.wav;0.2940
+WavLM, лише ASVspoof (англ.);fleurs_real;217.wav;-2.7628
+WavLM, лише ASVspoof (англ.);fleurs_real;218.wav;0.4683
+WavLM, лише ASVspoof (англ.);fleurs_real;219.wav;0.9225
+WavLM, лише ASVspoof (англ.);fleurs_real;220.wav;2.5753
+WavLM, лише ASVspoof (англ.);fleurs_real;221.wav;2.5177
+WavLM, лише ASVspoof (англ.);fleurs_real;222.wav;0.4251
+WavLM, лише ASVspoof (англ.);fleurs_real;223.wav;0.8240
+WavLM, лише ASVspoof (англ.);fleurs_real;224.wav;-3.4596
+WavLM, лише ASVspoof (англ.);fleurs_real;225.wav;1.5364
+WavLM, лише ASVspoof (англ.);fleurs_real;226.wav;2.7934
+WavLM, лише ASVspoof (англ.);fleurs_real;227.wav;2.3771
+WavLM, лише ASVspoof (англ.);fleurs_real;228.wav;-0.3352
+WavLM, лише ASVspoof (англ.);fleurs_real;229.wav;2.6603
+WavLM, лише ASVspoof (англ.);fleurs_real;230.wav;1.0969
+WavLM, лише ASVspoof (англ.);fleurs_real;231.wav;-0.2097
+WavLM, лише ASVspoof (англ.);fleurs_real;232.wav;3.3166
+WavLM, лише ASVspoof (англ.);fleurs_real;233.wav;2.4146
+WavLM, лише ASVspoof (англ.);fleurs_real;234.wav;-1.6000
+WavLM, лише ASVspoof (англ.);fleurs_real;235.wav;-0.4636
+WavLM, лише ASVspoof (англ.);fleurs_real;236.wav;3.5446
+WavLM, лише ASVspoof (англ.);fleurs_real;237.wav;3.1964
+WavLM, лише ASVspoof (англ.);fleurs_real;238.wav;0.9274
+WavLM, лише ASVspoof (англ.);fleurs_real;239.wav;-1.7493
+WavLM, лише ASVspoof (англ.);fleurs_real;240.wav;0.7430
+WavLM, лише ASVspoof (англ.);fleurs_real;241.wav;2.0472
+WavLM, лише ASVspoof (англ.);fleurs_real;242.wav;1.7176
+WavLM, лише ASVspoof (англ.);fleurs_real;243.wav;4.0089
+WavLM, лише ASVspoof (англ.);fleurs_real;244.wav;1.4662
+WavLM, лише ASVspoof (англ.);fleurs_real;245.wav;1.0281
+WavLM, лише ASVspoof (англ.);fleurs_real;246.wav;-3.7756
+WavLM, лише ASVspoof (англ.);fleurs_real;247.wav;-0.0346
+WavLM, лише ASVspoof (англ.);fleurs_real;248.wav;1.5632
+WavLM, лише ASVspoof (англ.);fleurs_real;249.wav;-1.1093
+WavLM, лише ASVspoof (англ.);fleurs_real;250.wav;-1.4980
+WavLM, лише ASVspoof (англ.);fleurs_real;251.wav;-0.3520
+WavLM, лише ASVspoof (англ.);fleurs_real;252.wav;2.1818
+WavLM, лише ASVspoof (англ.);fleurs_real;253.wav;1.1522
+WavLM, лише ASVspoof (англ.);fleurs_real;254.wav;-3.1800
+WavLM, лише ASVspoof (англ.);fleurs_real;255.wav;2.3693
+WavLM, лише ASVspoof (англ.);fleurs_real;256.wav;-4.2572
+WavLM, лише ASVspoof (англ.);fleurs_real;257.wav;-4.5752
+WavLM, лише ASVspoof (англ.);fleurs_real;258.wav;1.4795
+WavLM, лише ASVspoof (англ.);fleurs_real;259.wav;2.1348
+WavLM, лише ASVspoof (англ.);fleurs_real;260.wav;1.9524
+WavLM, лише ASVspoof (англ.);fleurs_real;261.wav;-1.2765
+WavLM, лише ASVspoof (англ.);fleurs_real;262.wav;-0.3587
+WavLM, лише ASVspoof (англ.);fleurs_real;263.wav;1.3064
+WavLM, лише ASVspoof (англ.);fleurs_real;264.wav;0.6687
+WavLM, лише ASVspoof (англ.);fleurs_real;265.wav;1.5962
+WavLM, лише ASVspoof (англ.);fleurs_real;266.wav;2.6241
+WavLM, лише ASVspoof (англ.);fleurs_real;267.wav;2.4282
+WavLM, лише ASVspoof (англ.);fleurs_real;268.wav;2.0144
+WavLM, лише ASVspoof (англ.);fleurs_real;269.wav;1.6457
+WavLM, лише ASVspoof (англ.);fleurs_real;270.wav;1.7934
+WavLM, лише ASVspoof (англ.);fleurs_real;271.wav;0.2629
+WavLM, лише ASVspoof (англ.);fleurs_real;272.wav;-1.8506
+WavLM, лише ASVspoof (англ.);fleurs_real;273.wav;0.2907
+WavLM, лише ASVspoof (англ.);fleurs_real;274.wav;1.7240
+WavLM, лише ASVspoof (англ.);fleurs_real;275.wav;-1.6777
+WavLM, лише ASVspoof (англ.);fleurs_real;276.wav;0.0200
+WavLM, лише ASVspoof (англ.);fleurs_real;277.wav;1.6206
+WavLM, лише ASVspoof (англ.);fleurs_real;278.wav;0.6180
+WavLM, лише ASVspoof (англ.);fleurs_real;279.wav;2.7001
+WavLM, лише ASVspoof (англ.);fleurs_real;280.wav;0.7796
+WavLM, лише ASVspoof (англ.);fleurs_real;281.wav;0.6456
+WavLM, лише ASVspoof (англ.);fleurs_real;282.wav;-0.0517
+WavLM, лише ASVspoof (англ.);fleurs_real;283.wav;2.4947
+WavLM, лише ASVspoof (англ.);fleurs_real;284.wav;-3.8523
+WavLM, лише ASVspoof (англ.);fleurs_real;285.wav;3.0016
+WavLM, лише ASVspoof (англ.);fleurs_real;286.wav;-3.9742
+WavLM, лише ASVspoof (англ.);fleurs_real;287.wav;3.7326
+WavLM, лише ASVspoof (англ.);fleurs_real;288.wav;-0.0778
+WavLM, лише ASVspoof (англ.);fleurs_real;289.wav;-1.4212
+WavLM, лише ASVspoof (англ.);fleurs_real;290.wav;2.4983
+WavLM, лише ASVspoof (англ.);fleurs_real;291.wav;0.9341
+WavLM, лише ASVspoof (англ.);fleurs_real;292.wav;2.9403
+WavLM, лише ASVspoof (англ.);fleurs_real;293.wav;1.2245
+WavLM, лише ASVspoof (англ.);fleurs_real;294.wav;1.6930
+WavLM, лише ASVspoof (англ.);fleurs_real;295.wav;2.6420
+WavLM, лише ASVspoof (англ.);fleurs_real;296.wav;2.5295
+WavLM, лише ASVspoof (англ.);fleurs_real;297.wav;-3.4535
+WavLM, лише ASVspoof (англ.);fleurs_real;298.wav;1.2682
+WavLM, лише ASVspoof (англ.);fleurs_real;299.wav;2.9031
+WavLM, адаптований до української (програма);mlitw_real;000_bona-fide_KyryloBudanov.wav;3.8573
+WavLM, адаптований до української (програма);mlitw_real;002_bona-fide_KyryloBudanov.wav;4.6101
+WavLM, адаптований до української (програма);mlitw_real;003_bona-fide_zelenskyy.wav;1.1407
+WavLM, адаптований до української (програма);mlitw_real;004_bona-fide_KyryloBudanov.wav;4.5844
+WavLM, адаптований до української (програма);mlitw_real;005_bona-fide_KyryloBudanov.wav;2.9419
+WavLM, адаптований до української (програма);mlitw_real;006_bona-fide_KyryloBudanov.wav;2.4829
+WavLM, адаптований до української (програма);mlitw_real;007_bona-fide_KyryloBudanov.wav;1.9796
+WavLM, адаптований до української (програма);mlitw_real;009_bona-fide_KyryloBudanov.wav;1.9480
+WavLM, адаптований до української (програма);mlitw_real;010_bona-fide_KyryloBudanov.wav;2.9648
+WavLM, адаптований до української (програма);mlitw_real;011_bona-fide_KyryloBudanov.wav;5.6651
+WavLM, адаптований до української (програма);mlitw_real;012_bona-fide_KyryloBudanov.wav;3.8792
+WavLM, адаптований до української (програма);mlitw_real;013_bona-fide_KyryloBudanov.wav;2.6483
+WavLM, адаптований до української (програма);mlitw_real;014_bona-fide_KyryloBudanov.wav;7.7807
+WavLM, адаптований до української (програма);mlitw_real;015_bona-fide_valerii.wav;1.0957
+WavLM, адаптований до української (програма);mlitw_real;016_bona-fide_KyryloBudanov.wav;4.3616
+WavLM, адаптований до української (програма);mlitw_real;017_bona-fide_KyryloBudanov.wav;7.1655
+WavLM, адаптований до української (програма);mlitw_real;018_bona-fide_KyryloBudanov.wav;4.5833
+WavLM, адаптований до української (програма);mlitw_real;019_bona-fide_KyryloBudanov.wav;3.2614
+WavLM, адаптований до української (програма);mlitw_real;020_bona-fide_KyryloBudanov.wav;0.4670
+WavLM, адаптований до української (програма);mlitw_real;021_bona-fide_KyryloBudanov.wav;6.0191
+WavLM, адаптований до української (програма);mlitw_real;022_bona-fide_KyryloBudanov.wav;4.5691
+WavLM, адаптований до української (програма);mlitw_real;024_bona-fide_KyryloBudanov.wav;3.1859
+WavLM, адаптований до української (програма);mlitw_real;027_bona-fide_zelenskyy.wav;-0.9027
+WavLM, адаптований до української (програма);mlitw_real;028_bona-fide_zelenskyy.wav;-0.7112
+WavLM, адаптований до української (програма);mlitw_real;029_bona-fide_KyryloBudanov.wav;6.7517
+WavLM, адаптований до української (програма);mlitw_real;030_bona-fide_KyryloBudanov.wav;4.8022
+WavLM, адаптований до української (програма);mlitw_real;031_bona-fide_zelenskyy.wav;1.3475
+WavLM, адаптований до української (програма);mlitw_real;032_bona-fide_valerii.wav;-0.4487
+WavLM, адаптований до української (програма);mlitw_real;033_bona-fide_KyryloBudanov.wav;4.0918
+WavLM, адаптований до української (програма);mlitw_real;034_bona-fide_KyryloBudanov.wav;3.3904
+WavLM, адаптований до української (програма);mlitw_real;035_bona-fide_valerii.wav;-3.5057
+WavLM, адаптований до української (програма);mlitw_real;036_bona-fide_KyryloBudanov.wav;5.7044
+WavLM, адаптований до української (програма);mlitw_real;037_bona-fide_KyryloBudanov.wav;3.8905
+WavLM, адаптований до української (програма);mlitw_real;041_bona-fide_KyryloBudanov.wav;7.4045
+WavLM, адаптований до української (програма);mlitw_real;042_bona-fide_KyryloBudanov.wav;5.5895
+WavLM, адаптований до української (програма);mlitw_real;043_bona-fide_valerii.wav;-1.8016
+WavLM, адаптований до української (програма);mlitw_real;044_bona-fide_valerii.wav;1.6146
+WavLM, адаптований до української (програма);mlitw_real;045_bona-fide_KyryloBudanov.wav;6.1403
+WavLM, адаптований до української (програма);mlitw_real;046_bona-fide_zelenskyy.wav;0.7935
+WavLM, адаптований до української (програма);mlitw_real;048_bona-fide_KyryloBudanov.wav;5.5256
+WavLM, адаптований до української (програма);mlitw_real;051_bona-fide_KyryloBudanov.wav;5.5686
+WavLM, адаптований до української (програма);mlitw_real;052_bona-fide_valerii.wav;-1.2067
+WavLM, адаптований до української (програма);mlitw_real;053_bona-fide_KyryloBudanov.wav;3.9022
+WavLM, адаптований до української (програма);mlitw_real;054_bona-fide_zelenskyy.wav;-1.4308
+WavLM, адаптований до української (програма);mlitw_real;055_bona-fide_KyryloBudanov.wav;5.8821
+WavLM, адаптований до української (програма);mlitw_real;056_bona-fide_valerii.wav;-4.3594
+WavLM, адаптований до української (програма);mlitw_real;058_bona-fide_KyryloBudanov.wav;3.3949
+WavLM, адаптований до української (програма);mlitw_real;059_bona-fide_KyryloBudanov.wav;5.5545
+WavLM, адаптований до української (програма);mlitw_real;060_bona-fide_KyryloBudanov.wav;5.0305
+WavLM, адаптований до української (програма);mlitw_real;061_bona-fide_KyryloBudanov.wav;4.8463
+WavLM, адаптований до української (програма);mlitw_real;063_bona-fide_valerii.wav;0.0152
+WavLM, адаптований до української (програма);mlitw_real;064_bona-fide_zelenskyy.wav;-1.6571
+WavLM, адаптований до української (програма);mlitw_real;066_bona-fide_valerii.wav;0.0005
+WavLM, адаптований до української (програма);mlitw_real;067_bona-fide_KyryloBudanov.wav;2.8754
+WavLM, адаптований до української (програма);mlitw_real;068_bona-fide_KyryloBudanov.wav;4.3539
+WavLM, адаптований до української (програма);mlitw_real;069_bona-fide_valerii.wav;3.1675
+WavLM, адаптований до української (програма);mlitw_real;070_bona-fide_KyryloBudanov.wav;6.9444
+WavLM, адаптований до української (програма);mlitw_real;071_bona-fide_KyryloBudanov.wav;4.9201
+WavLM, адаптований до української (програма);mlitw_real;072_bona-fide_KyryloBudanov.wav;5.5766
+WavLM, адаптований до української (програма);mlitw_real;073_bona-fide_zelenskyy.wav;2.2748
+WavLM, адаптований до української (програма);mlitw_real;076_bona-fide_KyryloBudanov.wav;8.1776
+WavLM, адаптований до української (програма);mlitw_real;077_bona-fide_valerii.wav;1.8629
+WavLM, адаптований до української (програма);mlitw_real;078_bona-fide_valerii.wav;-2.2593
+WavLM, адаптований до української (програма);mlitw_real;079_bona-fide_valerii.wav;-1.3975
+WavLM, адаптований до української (програма);mlitw_real;081_bona-fide_KyryloBudanov.wav;3.9583
+WavLM, адаптований до української (програма);mlitw_real;082_bona-fide_KyryloBudanov.wav;3.6408
+WavLM, адаптований до української (програма);mlitw_real;083_bona-fide_KyryloBudanov.wav;5.8675
+WavLM, адаптований до української (програма);mlitw_real;084_bona-fide_zelenskyy.wav;-1.4944
+WavLM, адаптований до української (програма);mlitw_real;085_bona-fide_KyryloBudanov.wav;1.5224
+WavLM, адаптований до української (програма);mlitw_real;086_bona-fide_KyryloBudanov.wav;2.6440
+WavLM, адаптований до української (програма);mlitw_real;087_bona-fide_KyryloBudanov.wav;5.9990
+WavLM, адаптований до української (програма);mlitw_real;088_bona-fide_KyryloBudanov.wav;3.9499
+WavLM, адаптований до української (програма);mlitw_real;089_bona-fide_valerii.wav;0.5355
+WavLM, адаптований до української (програма);mlitw_fake;001_spoof_valerii.wav;4.7433
+WavLM, адаптований до української (програма);mlitw_fake;008_spoof_valerii.wav;5.7260
+WavLM, адаптований до української (програма);mlitw_fake;023_spoof_valerii.wav;5.9466
+WavLM, адаптований до української (програма);mlitw_fake;025_spoof_valerii.wav;4.6561
+WavLM, адаптований до української (програма);mlitw_fake;026_spoof_valerii.wav;5.8016
+WavLM, адаптований до української (програма);mlitw_fake;038_spoof_valerii.wav;7.4362
+WavLM, адаптований до української (програма);mlitw_fake;039_spoof_zelenskyy.wav;5.6508
+WavLM, адаптований до української (програма);mlitw_fake;040_spoof_danilov.wav;9.5572
+WavLM, адаптований до української (програма);mlitw_fake;047_spoof_danilov.wav;6.2266
+WavLM, адаптований до української (програма);mlitw_fake;049_spoof_valerii.wav;6.5986
+WavLM, адаптований до української (програма);mlitw_fake;050_spoof_valerii.wav;6.6948
+WavLM, адаптований до української (програма);mlitw_fake;057_spoof_danilov.wav;7.7798
+WavLM, адаптований до української (програма);mlitw_fake;062_spoof_valerii.wav;4.5591
+WavLM, адаптований до української (програма);mlitw_fake;065_spoof_valerii.wav;4.4616
+WavLM, адаптований до української (програма);mlitw_fake;074_spoof_valerii.wav;3.4789
+WavLM, адаптований до української (програма);mlitw_fake;075_spoof_valerii.wav;2.7963
+WavLM, адаптований до української (програма);mlitw_fake;080_spoof_valerii.wav;7.7236
+WavLM, адаптований до української (програма);drssu_fake;1001.wav;-2.6509
+WavLM, адаптований до української (програма);drssu_fake;1019.wav;-5.7168
+WavLM, адаптований до української (програма);drssu_fake;1021.wav;0.0208
+WavLM, адаптований до української (програма);drssu_fake;1032.wav;-4.0951
+WavLM, адаптований до української (програма);drssu_fake;1047.wav;-6.7203
+WavLM, адаптований до української (програма);drssu_fake;1132.wav;-2.5919
+WavLM, адаптований до української (програма);drssu_fake;1147.wav;-2.4026
+WavLM, адаптований до української (програма);drssu_fake;1180.wav;-2.8282
+WavLM, адаптований до української (програма);drssu_fake;1209.wav;-1.0457
+WavLM, адаптований до української (програма);drssu_fake;1213.wav;-2.0387
+WavLM, адаптований до української (програма);drssu_fake;1296.wav;-5.1312
+WavLM, адаптований до української (програма);drssu_fake;1315.wav;-3.2990
+WavLM, адаптований до української (програма);drssu_fake;1319.wav;-2.6110
+WavLM, адаптований до української (програма);drssu_fake;1323.wav;-2.8503
+WavLM, адаптований до української (програма);drssu_fake;1333.wav;-2.9082
+WavLM, адаптований до української (програма);drssu_fake;1350.wav;-1.0637
+WavLM, адаптований до української (програма);drssu_fake;1368.wav;-2.9675
+WavLM, адаптований до української (програма);drssu_fake;1472.wav;-5.2486
+WavLM, адаптований до української (програма);drssu_fake;1495.wav;-7.3660
+WavLM, адаптований до української (програма);drssu_fake;1500.wav;-3.1994
+WavLM, адаптований до української (програма);drssu_fake;1502.wav;-2.1255
+WavLM, адаптований до української (програма);drssu_fake;1529.wav;-3.3420
+WavLM, адаптований до української (програма);drssu_fake;1554.wav;-7.1147
+WavLM, адаптований до української (програма);drssu_fake;1603.wav;-4.9044
+WavLM, адаптований до української (програма);drssu_fake;1619.wav;0.1905
+WavLM, адаптований до української (програма);drssu_fake;1642.wav;-1.8398
+WavLM, адаптований до української (програма);drssu_fake;1649.wav;-5.9440
+WavLM, адаптований до української (програма);drssu_fake;1650.wav;-2.6747
+WavLM, адаптований до української (програма);drssu_fake;1654.wav;-5.2371
+WavLM, адаптований до української (програма);drssu_fake;1663.wav;-2.0671
+WavLM, адаптований до української (програма);drssu_fake;1787.wav;-2.9980
+WavLM, адаптований до української (програма);drssu_fake;1886.wav;-5.7319
+WavLM, адаптований до української (програма);drssu_fake;1890.wav;-2.6287
+WavLM, адаптований до української (програма);drssu_fake;1897.wav;-2.2963
+WavLM, адаптований до української (програма);drssu_fake;19.wav;-5.0069
+WavLM, адаптований до української (програма);drssu_fake;1902.wav;-1.4179
+WavLM, адаптований до української (програма);drssu_fake;1920.wav;-4.1477
+WavLM, адаптований до української (програма);drssu_fake;1921.wav;-1.5964
+WavLM, адаптований до української (програма);drssu_fake;1949.wav;-1.9729
+WavLM, адаптований до української (програма);drssu_fake;1962.wav;-2.2621
+WavLM, адаптований до української (програма);drssu_fake;2.wav;-2.1430
+WavLM, адаптований до української (програма);drssu_fake;2030.wav;-2.7422
+WavLM, адаптований до української (програма);drssu_fake;2039.wav;-3.7279
+WavLM, адаптований до української (програма);drssu_fake;204.wav;-2.8036
+WavLM, адаптований до української (програма);drssu_fake;2045.wav;-2.5399
+WavLM, адаптований до української (програма);drssu_fake;2134.wav;-2.1652
+WavLM, адаптований до української (програма);drssu_fake;2139.wav;-3.7465
+WavLM, адаптований до української (програма);drssu_fake;2169.wav;-4.1624
+WavLM, адаптований до української (програма);drssu_fake;217.wav;-3.6570
+WavLM, адаптований до української (програма);drssu_fake;2186.wav;-3.6780
+WavLM, адаптований до української (програма);drssu_fake;2210.wav;-2.7099
+WavLM, адаптований до української (програма);drssu_fake;2282.wav;-2.1124
+WavLM, адаптований до української (програма);drssu_fake;2290.wav;-2.8029
+WavLM, адаптований до української (програма);drssu_fake;231.wav;-4.1399
+WavLM, адаптований до української (програма);drssu_fake;2335.wav;-2.6565
+WavLM, адаптований до української (програма);drssu_fake;235.wav;-2.0629
+WavLM, адаптований до української (програма);drssu_fake;2398.wav;-2.2815
+WavLM, адаптований до української (програма);drssu_fake;2408.wav;-4.7168
+WavLM, адаптований до української (програма);drssu_fake;242.wav;-1.0429
+WavLM, адаптований до української (програма);drssu_fake;2451.wav;-4.5775
+WavLM, адаптований до української (програма);drssu_fake;25.wav;-2.4598
+WavLM, адаптований до української (програма);drssu_fake;2514.wav;-3.0379
+WavLM, адаптований до української (програма);drssu_fake;2531.wav;-3.7590
+WavLM, адаптований до української (програма);drssu_fake;2584.wav;-4.2332
+WavLM, адаптований до української (програма);drssu_fake;2593.wav;0.1365
+WavLM, адаптований до української (програма);drssu_fake;2623.wav;-2.3826
+WavLM, адаптований до української (програма);drssu_fake;2654.wav;-0.7541
+WavLM, адаптований до української (програма);drssu_fake;266.wav;-7.3622
+WavLM, адаптований до української (програма);drssu_fake;2715.wav;-4.0598
+WavLM, адаптований до української (програма);drssu_fake;2776.wav;-2.4518
+WavLM, адаптований до української (програма);drssu_fake;2794.wav;-2.7995
+WavLM, адаптований до української (програма);drssu_fake;2865.wav;-2.7113
+WavLM, адаптований до української (програма);drssu_fake;2922.wav;-1.7202
+WavLM, адаптований до української (програма);drssu_fake;2955.wav;-2.6574
+WavLM, адаптований до української (програма);drssu_fake;2986.wav;-3.7224
+WavLM, адаптований до української (програма);drssu_fake;3013.wav;-3.3635
+WavLM, адаптований до української (програма);drssu_fake;3031.wav;-2.3474
+WavLM, адаптований до української (програма);drssu_fake;305.wav;-1.9918
+WavLM, адаптований до української (програма);drssu_fake;3060.wav;-4.1033
+WavLM, адаптований до української (програма);drssu_fake;3081.wav;-2.0402
+WavLM, адаптований до української (програма);drssu_fake;3089.wav;-2.4736
+WavLM, адаптований до української (програма);drssu_fake;3103.wav;-2.3025
+WavLM, адаптований до української (програма);drssu_fake;3120.wav;-1.8057
+WavLM, адаптований до української (програма);drssu_fake;3121.wav;-6.3333
+WavLM, адаптований до української (програма);drssu_fake;3131.wav;0.2282
+WavLM, адаптований до української (програма);drssu_fake;3151.wav;-1.8340
+WavLM, адаптований до української (програма);drssu_fake;3189.wav;-0.5977
+WavLM, адаптований до української (програма);drssu_fake;3253.wav;-3.9055
+WavLM, адаптований до української (програма);drssu_fake;3267.wav;-0.4519
+WavLM, адаптований до української (програма);drssu_fake;3330.wav;-6.3687
+WavLM, адаптований до української (програма);drssu_fake;3333.wav;-7.1539
+WavLM, адаптований до української (програма);drssu_fake;3351.wav;-0.6437
+WavLM, адаптований до української (програма);drssu_fake;3371.wav;-4.0449
+WavLM, адаптований до української (програма);drssu_fake;3451.wav;-1.8909
+WavLM, адаптований до української (програма);drssu_fake;3499.wav;-7.1279
+WavLM, адаптований до української (програма);drssu_fake;3526.wav;-4.7700
+WavLM, адаптований до української (програма);drssu_fake;355.wav;-2.2018
+WavLM, адаптований до української (програма);drssu_fake;3579.wav;-4.8193
+WavLM, адаптований до української (програма);drssu_fake;358.wav;-1.3659
+WavLM, адаптований до української (програма);drssu_fake;3585.wav;-4.2434
+WavLM, адаптований до української (програма);drssu_fake;3613.wav;0.6488
+WavLM, адаптований до української (програма);drssu_fake;3619.wav;-0.1642
+WavLM, адаптований до української (програма);drssu_fake;3633.wav;-2.3566
+WavLM, адаптований до української (програма);drssu_fake;3656.wav;-2.5402
+WavLM, адаптований до української (програма);drssu_fake;374.wav;-2.4267
+WavLM, адаптований до української (програма);drssu_fake;3859.wav;-1.7739
+WavLM, адаптований до української (програма);drssu_fake;39.wav;-1.9344
+WavLM, адаптований до української (програма);drssu_fake;3910.wav;-0.0761
+WavLM, адаптований до української (програма);drssu_fake;3923.wav;-2.2197
+WavLM, адаптований до української (програма);drssu_fake;3935.wav;-1.0518
+WavLM, адаптований до української (програма);drssu_fake;3967.wav;-1.9557
+WavLM, адаптований до української (програма);drssu_fake;3982.wav;-2.0433
+WavLM, адаптований до української (програма);drssu_fake;3997.wav;-3.1437
+WavLM, адаптований до української (програма);drssu_fake;4105.wav;-0.5203
+WavLM, адаптований до української (програма);drssu_fake;4108.wav;-1.8677
+WavLM, адаптований до української (програма);drssu_fake;4112.wav;-2.6721
+WavLM, адаптований до української (програма);drssu_fake;4203.wav;-1.6080
+WavLM, адаптований до української (програма);drssu_fake;4243.wav;-2.4072
+WavLM, адаптований до української (програма);drssu_fake;4248.wav;-0.4901
+WavLM, адаптований до української (програма);drssu_fake;4255.wav;-0.3245
+WavLM, адаптований до української (програма);drssu_fake;4259.wav;-3.3859
+WavLM, адаптований до української (програма);drssu_fake;4261.wav;-1.8651
+WavLM, адаптований до української (програма);drssu_fake;4263.wav;-1.4374
+WavLM, адаптований до української (програма);drssu_fake;4268.wav;-2.2077
+WavLM, адаптований до української (програма);drssu_fake;438.wav;-1.7199
+WavLM, адаптований до української (програма);drssu_fake;4441.wav;-0.9825
+WavLM, адаптований до української (програма);drssu_fake;4501.wav;-3.5165
+WavLM, адаптований до української (програма);drssu_fake;4510.wav;-4.1047
+WavLM, адаптований до української (програма);drssu_fake;4516.wav;-2.0815
+WavLM, адаптований до української (програма);drssu_fake;4562.wav;-3.7800
+WavLM, адаптований до української (програма);drssu_fake;4588.wav;-3.7232
+WavLM, адаптований до української (програма);drssu_fake;4602.wav;-3.3494
+WavLM, адаптований до української (програма);drssu_fake;4618.wav;-1.4996
+WavLM, адаптований до української (програма);drssu_fake;4713.wav;-3.8402
+WavLM, адаптований до української (програма);drssu_fake;4717.wav;-2.2433
+WavLM, адаптований до української (програма);drssu_fake;4757.wav;-1.2388
+WavLM, адаптований до української (програма);drssu_fake;4770.wav;-3.3464
+WavLM, адаптований до української (програма);drssu_fake;4933.wav;-3.5791
+WavLM, адаптований до української (програма);drssu_fake;4939.wav;-3.7781
+WavLM, адаптований до української (програма);drssu_fake;4955.wav;-5.4372
+WavLM, адаптований до української (програма);drssu_fake;4970.wav;-3.1325
+WavLM, адаптований до української (програма);drssu_fake;5082.wav;-4.7253
+WavLM, адаптований до української (програма);drssu_fake;5084.wav;-1.0141
+WavLM, адаптований до української (програма);drssu_fake;5103.wav;-1.3517
+WavLM, адаптований до української (програма);drssu_fake;5113.wav;0.1995
+WavLM, адаптований до української (програма);drssu_fake;5157.wav;-4.8718
+WavLM, адаптований до української (програма);drssu_fake;517.wav;1.1485
+WavLM, адаптований до української (програма);drssu_fake;5181.wav;-3.7027
+WavLM, адаптований до української (програма);drssu_fake;5195.wav;-5.8140
+WavLM, адаптований до української (програма);drssu_fake;5244.wav;-2.0982
+WavLM, адаптований до української (програма);drssu_fake;5314.wav;-4.1699
+WavLM, адаптований до української (програма);drssu_fake;5329.wav;-2.5681
+WavLM, адаптований до української (програма);drssu_fake;5341.wav;-5.0988
+WavLM, адаптований до української (програма);drssu_fake;541.wav;-3.7210
+WavLM, адаптований до української (програма);drssu_fake;5410.wav;-2.4113
+WavLM, адаптований до української (програма);drssu_fake;5449.wav;-1.2162
+WavLM, адаптований до української (програма);drssu_fake;5452.wav;-2.6431
+WavLM, адаптований до української (програма);drssu_fake;5459.wav;-6.1240
+WavLM, адаптований до української (програма);drssu_fake;5479.wav;-2.5924
+WavLM, адаптований до української (програма);drssu_fake;5494.wav;-2.3880
+WavLM, адаптований до української (програма);drssu_fake;5504.wav;-2.5407
+WavLM, адаптований до української (програма);drssu_fake;56.wav;-4.2777
+WavLM, адаптований до української (програма);drssu_fake;5609.wav;-0.1468
+WavLM, адаптований до української (програма);drssu_fake;5687.wav;-2.1744
+WavLM, адаптований до української (програма);drssu_fake;5740.wav;-3.4028
+WavLM, адаптований до української (програма);drssu_fake;5771.wav;-1.7550
+WavLM, адаптований до української (програма);drssu_fake;5797.wav;-5.3600
+WavLM, адаптований до української (програма);drssu_fake;5852.wav;-1.1870
+WavLM, адаптований до української (програма);drssu_fake;5856.wav;-1.6576
+WavLM, адаптований до української (програма);drssu_fake;5867.wav;-1.0564
+WavLM, адаптований до української (програма);drssu_fake;5875.wav;-3.1220
+WavLM, адаптований до української (програма);drssu_fake;5886.wav;-4.3226
+WavLM, адаптований до української (програма);drssu_fake;597.wav;-1.5547
+WavLM, адаптований до української (програма);drssu_fake;6012.wav;-1.4314
+WavLM, адаптований до української (програма);drssu_fake;6065.wav;-2.6890
+WavLM, адаптований до української (програма);drssu_fake;6096.wav;-3.3708
+WavLM, адаптований до української (програма);drssu_fake;6103.wav;-5.3639
+WavLM, адаптований до української (програма);drssu_fake;6204.wav;-1.6960
+WavLM, адаптований до української (програма);drssu_fake;6307.wav;-1.7695
+WavLM, адаптований до української (програма);drssu_fake;6312.wav;-2.7515
+WavLM, адаптований до української (програма);drssu_fake;634.wav;-2.2911
+WavLM, адаптований до української (програма);drssu_fake;6358.wav;-1.8333
+WavLM, адаптований до української (програма);drssu_fake;6368.wav;-4.9020
+WavLM, адаптований до української (програма);drssu_fake;638.wav;-2.5247
+WavLM, адаптований до української (програма);drssu_fake;6410.wav;-3.5311
+WavLM, адаптований до української (програма);drssu_fake;6411.wav;-2.7331
+WavLM, адаптований до української (програма);drssu_fake;646.wav;-1.6698
+WavLM, адаптований до української (програма);drssu_fake;6500.wav;-1.3624
+WavLM, адаптований до української (програма);drssu_fake;6535.wav;-3.1255
+WavLM, адаптований до української (програма);drssu_fake;6584.wav;-4.4618
+WavLM, адаптований до української (програма);drssu_fake;6591.wav;-2.5155
+WavLM, адаптований до української (програма);drssu_fake;6635.wav;-3.4272
+WavLM, адаптований до української (програма);drssu_fake;664.wav;-1.5305
+WavLM, адаптований до української (програма);drssu_fake;667.wav;-1.5345
+WavLM, адаптований до української (програма);drssu_fake;6716.wav;-3.2498
+WavLM, адаптований до української (програма);drssu_fake;6790.wav;-1.9961
+WavLM, адаптований до української (програма);drssu_fake;6802.wav;-1.5429
+WavLM, адаптований до української (програма);drssu_fake;6841.wav;-1.7565
+WavLM, адаптований до української (програма);drssu_fake;6853.wav;-2.0134
+WavLM, адаптований до української (програма);drssu_fake;6872.wav;-4.2792
+WavLM, адаптований до української (програма);drssu_fake;689.wav;-3.1150
+WavLM, адаптований до української (програма);drssu_fake;6891.wav;-3.5445
+WavLM, адаптований до української (програма);drssu_fake;694.wav;-4.5661
+WavLM, адаптований до української (програма);drssu_fake;6974.wav;-2.7377
+WavLM, адаптований до української (програма);drssu_fake;6982.wav;-1.0632
+WavLM, адаптований до української (програма);drssu_fake;7114.wav;-4.2537
+WavLM, адаптований до української (програма);drssu_fake;7135.wav;-1.7275
+WavLM, адаптований до української (програма);drssu_fake;7145.wav;-3.3854
+WavLM, адаптований до української (програма);drssu_fake;7247.wav;-4.6723
+WavLM, адаптований до української (програма);drssu_fake;7254.wav;-2.8753
+WavLM, адаптований до української (програма);drssu_fake;7291.wav;-0.4309
+WavLM, адаптований до української (програма);drssu_fake;7297.wav;-4.8050
+WavLM, адаптований до української (програма);drssu_fake;7314.wav;-3.8259
+WavLM, адаптований до української (програма);drssu_fake;7340.wav;-7.5577
+WavLM, адаптований до української (програма);drssu_fake;7343.wav;-4.1507
+WavLM, адаптований до української (програма);drssu_fake;7383.wav;-3.9645
+WavLM, адаптований до української (програма);drssu_fake;742.wav;-4.2746
+WavLM, адаптований до української (програма);drssu_fake;7422.wav;-3.9891
+WavLM, адаптований до української (програма);drssu_fake;749.wav;-2.4600
+WavLM, адаптований до української (програма);drssu_fake;7504.wav;-1.2219
+WavLM, адаптований до української (програма);drssu_fake;7515.wav;-0.8473
+WavLM, адаптований до української (програма);drssu_fake;7650.wav;-1.6122
+WavLM, адаптований до української (програма);drssu_fake;7654.wav;-3.0422
+WavLM, адаптований до української (програма);drssu_fake;767.wav;-4.8094
+WavLM, адаптований до української (програма);drssu_fake;7705.wav;-0.5335
+WavLM, адаптований до української (програма);drssu_fake;7728.wav;-5.9855
+WavLM, адаптований до української (програма);drssu_fake;7736.wav;-2.0082
+WavLM, адаптований до української (програма);drssu_fake;7793.wav;-2.0523
+WavLM, адаптований до української (програма);drssu_fake;7808.wav;-2.8254
+WavLM, адаптований до української (програма);drssu_fake;7809.wav;-1.0360
+WavLM, адаптований до української (програма);drssu_fake;7816.wav;-1.6827
+WavLM, адаптований до української (програма);drssu_fake;7852.wav;-4.2465
+WavLM, адаптований до української (програма);drssu_fake;7895.wav;-6.8244
+WavLM, адаптований до української (програма);drssu_fake;7962.wav;-3.8313
+WavLM, адаптований до української (програма);drssu_fake;7970.wav;-3.0513
+WavLM, адаптований до української (програма);drssu_fake;7984.wav;-3.8479
+WavLM, адаптований до української (програма);drssu_fake;8017.wav;-1.2337
+WavLM, адаптований до української (програма);drssu_fake;8072.wav;-3.8443
+WavLM, адаптований до української (програма);drssu_fake;8087.wav;-2.5596
+WavLM, адаптований до української (програма);drssu_fake;8102.wav;-0.8854
+WavLM, адаптований до української (програма);drssu_fake;8104.wav;-4.8906
+WavLM, адаптований до української (програма);drssu_fake;817.wav;-4.7147
+WavLM, адаптований до української (програма);drssu_fake;8252.wav;-2.9628
+WavLM, адаптований до української (програма);drssu_fake;8269.wav;-3.3042
+WavLM, адаптований до української (програма);drssu_fake;8323.wav;-4.4575
+WavLM, адаптований до української (програма);drssu_fake;8333.wav;-2.1823
+WavLM, адаптований до української (програма);drssu_fake;8377.wav;-6.1906
+WavLM, адаптований до української (програма);drssu_fake;8534.wav;-1.8415
+WavLM, адаптований до української (програма);drssu_fake;8542.wav;-3.2667
+WavLM, адаптований до української (програма);drssu_fake;8550.wav;-4.7090
+WavLM, адаптований до української (програма);drssu_fake;8595.wav;-5.1398
+WavLM, адаптований до української (програма);drssu_fake;8644.wav;-1.8446
+WavLM, адаптований до української (програма);drssu_fake;8657.wav;-1.2053
+WavLM, адаптований до української (програма);drssu_fake;8675.wav;-3.1114
+WavLM, адаптований до української (програма);drssu_fake;8726.wav;-4.3663
+WavLM, адаптований до української (програма);drssu_fake;8753.wav;-3.8357
+WavLM, адаптований до української (програма);drssu_fake;8814.wav;-5.4766
+WavLM, адаптований до української (програма);drssu_fake;8853.wav;-1.9742
+WavLM, адаптований до української (програма);drssu_fake;8858.wav;-2.1615
+WavLM, адаптований до української (програма);drssu_fake;8897.wav;0.7522
+WavLM, адаптований до української (програма);drssu_fake;8917.wav;-2.4210
+WavLM, адаптований до української (програма);drssu_fake;8919.wav;-1.7609
+WavLM, адаптований до української (програма);drssu_fake;8966.wav;-3.7269
+WavLM, адаптований до української (програма);drssu_fake;8970.wav;-2.6048
+WavLM, адаптований до української (програма);drssu_fake;8988.wav;-3.8889
+WavLM, адаптований до української (програма);drssu_fake;8990.wav;-5.1452
+WavLM, адаптований до української (програма);drssu_fake;9032.wav;-2.1671
+WavLM, адаптований до української (програма);drssu_fake;9053.wav;-2.1363
+WavLM, адаптований до української (програма);drssu_fake;9149.wav;-2.4319
+WavLM, адаптований до української (програма);drssu_fake;9172.wav;-1.3593
+WavLM, адаптований до української (програма);drssu_fake;9185.wav;-2.4062
+WavLM, адаптований до української (програма);drssu_fake;9199.wav;-0.4815
+WavLM, адаптований до української (програма);drssu_fake;9298.wav;-4.9787
+WavLM, адаптований до української (програма);drssu_fake;9299.wav;-3.3055
+WavLM, адаптований до української (програма);drssu_fake;9309.wav;-6.4255
+WavLM, адаптований до української (програма);drssu_fake;9325.wav;-6.7355
+WavLM, адаптований до української (програма);drssu_fake;9336.wav;-5.3208
+WavLM, адаптований до української (програма);drssu_fake;9403.wav;-3.6828
+WavLM, адаптований до української (програма);drssu_fake;9432.wav;-4.3637
+WavLM, адаптований до української (програма);drssu_fake;9437.wav;-0.8794
+WavLM, адаптований до української (програма);drssu_fake;9498.wav;-4.2434
+WavLM, адаптований до української (програма);drssu_fake;952.wav;-3.0016
+WavLM, адаптований до української (програма);drssu_fake;9559.wav;-2.0753
+WavLM, адаптований до української (програма);drssu_fake;9619.wav;-1.1451
+WavLM, адаптований до української (програма);drssu_fake;9628.wav;-3.4496
+WavLM, адаптований до української (програма);drssu_fake;9664.wav;-7.3387
+WavLM, адаптований до української (програма);drssu_fake;9672.wav;-3.5838
+WavLM, адаптований до української (програма);drssu_fake;9742.wav;-1.7231
+WavLM, адаптований до української (програма);drssu_fake;9770.wav;-3.1160
+WavLM, адаптований до української (програма);drssu_fake;9773.wav;-4.6868
+WavLM, адаптований до української (програма);drssu_fake;9778.wav;-0.3753
+WavLM, адаптований до української (програма);drssu_fake;9862.wav;-4.1428
+WavLM, адаптований до української (програма);drssu_fake;9866.wav;-5.2768
+WavLM, адаптований до української (програма);drssu_fake;9883.wav;-6.6783
+WavLM, адаптований до української (програма);drssu_fake;9896.wav;-4.7342
+WavLM, адаптований до української (програма);drssu_fake;9921.wav;-1.4923
+WavLM, адаптований до української (програма);drssu_fake;9935.wav;-8.1767
+WavLM, адаптований до української (програма);drssu_fake;9955.wav;-2.9472
+WavLM, адаптований до української (програма);drssu_fake;9968.wav;-7.2597
+WavLM, адаптований до української (програма);drssu_fake;9997.wav;-7.6332
+WavLM, адаптований до української (програма);drssu_real;10089.wav;4.7351
+WavLM, адаптований до української (програма);drssu_real;10429.wav;2.7048
+WavLM, адаптований до української (програма);drssu_real;10546.wav;6.6560
+WavLM, адаптований до української (програма);drssu_real;10567.wav;5.5173
+WavLM, адаптований до української (програма);drssu_real;10765.wav;4.7733
+WavLM, адаптований до української (програма);drssu_real;10833.wav;3.1468
+WavLM, адаптований до української (програма);drssu_real;10902.wav;2.7897
+WavLM, адаптований до української (програма);drssu_real;10926.wav;2.5215
+WavLM, адаптований до української (програма);drssu_real;10946.wav;5.7703
+WavLM, адаптований до української (програма);drssu_real;10980.wav;3.7256
+WavLM, адаптований до української (програма);drssu_real;1102.wav;-2.2705
+WavLM, адаптований до української (програма);drssu_real;11046.wav;10.3198
+WavLM, адаптований до української (програма);drssu_real;11060.wav;8.8089
+WavLM, адаптований до української (програма);drssu_real;11084.wav;5.0571
+WavLM, адаптований до української (програма);drssu_real;11149.wav;8.6478
+WavLM, адаптований до української (програма);drssu_real;11261.wav;9.5445
+WavLM, адаптований до української (програма);drssu_real;1153.wav;-0.4870
+WavLM, адаптований до української (програма);drssu_real;11560.wav;4.0820
+WavLM, адаптований до української (програма);drssu_real;1163.wav;3.3646
+WavLM, адаптований до української (програма);drssu_real;1169.wav;-2.3757
+WavLM, адаптований до української (програма);drssu_real;11748.wav;5.0118
+WavLM, адаптований до української (програма);drssu_real;1178.wav;-0.5360
+WavLM, адаптований до української (програма);drssu_real;11827.wav;6.1191
+WavLM, адаптований до української (програма);drssu_real;11851.wav;7.8842
+WavLM, адаптований до української (програма);drssu_real;12033.wav;7.1196
+WavLM, адаптований до української (програма);drssu_real;12070.wav;7.5009
+WavLM, адаптований до української (програма);drssu_real;12168.wav;4.3680
+WavLM, адаптований до української (програма);drssu_real;12307.wav;9.1971
+WavLM, адаптований до української (програма);drssu_real;12388.wav;6.8627
+WavLM, адаптований до української (програма);drssu_real;1240.wav;1.5013
+WavLM, адаптований до української (програма);drssu_real;12420.wav;3.5284
+WavLM, адаптований до української (програма);drssu_real;12525.wav;7.0691
+WavLM, адаптований до української (програма);drssu_real;12573.wav;5.1865
+WavLM, адаптований до української (програма);drssu_real;12589.wav;2.9356
+WavLM, адаптований до української (програма);drssu_real;12610.wav;6.0519
+WavLM, адаптований до української (програма);drssu_real;12671.wav;2.7334
+WavLM, адаптований до української (програма);drssu_real;12733.wav;8.5719
+WavLM, адаптований до української (програма);drssu_real;12905.wav;5.7391
+WavLM, адаптований до української (програма);drssu_real;1292.wav;4.9927
+WavLM, адаптований до української (програма);drssu_real;12937.wav;4.7298
+WavLM, адаптований до української (програма);drssu_real;13041.wav;8.0587
+WavLM, адаптований до української (програма);drssu_real;13212.wav;2.2120
+WavLM, адаптований до української (програма);drssu_real;13301.wav;7.3681
+WavLM, адаптований до української (програма);drssu_real;1332.wav;-2.7591
+WavLM, адаптований до української (програма);drssu_real;13372.wav;6.8323
+WavLM, адаптований до української (програма);drssu_real;13473.wav;5.6511
+WavLM, адаптований до української (програма);drssu_real;1351.wav;1.6341
+WavLM, адаптований до української (програма);drssu_real;13590.wav;4.2573
+WavLM, адаптований до української (програма);drssu_real;13692.wav;4.1432
+WavLM, адаптований до української (програма);drssu_real;13693.wav;4.5333
+WavLM, адаптований до української (програма);drssu_real;1380.wav;4.1494
+WavLM, адаптований до української (програма);drssu_real;13863.wav;6.0755
+WavLM, адаптований до української (програма);drssu_real;13869.wav;6.8158
+WavLM, адаптований до української (програма);drssu_real;13972.wav;6.1800
+WavLM, адаптований до української (програма);drssu_real;13977.wav;8.5439
+WavLM, адаптований до української (програма);drssu_real;14131.wav;2.8824
+WavLM, адаптований до української (програма);drssu_real;14698.wav;5.1310
+WavLM, адаптований до української (програма);drssu_real;14700.wav;5.8607
+WavLM, адаптований до української (програма);drssu_real;14799.wav;3.8036
+WavLM, адаптований до української (програма);drssu_real;15022.wav;4.9441
+WavLM, адаптований до української (програма);drssu_real;15098.wav;1.9794
+WavLM, адаптований до української (програма);drssu_real;15280.wav;1.7239
+WavLM, адаптований до української (програма);drssu_real;15416.wav;5.0626
+WavLM, адаптований до української (програма);drssu_real;15533.wav;5.6727
+WavLM, адаптований до української (програма);drssu_real;15666.wav;6.8735
+WavLM, адаптований до української (програма);drssu_real;15699.wav;4.1859
+WavLM, адаптований до української (програма);drssu_real;15768.wav;2.9678
+WavLM, адаптований до української (програма);drssu_real;15773.wav;7.7898
+WavLM, адаптований до української (програма);drssu_real;15802.wav;5.5078
+WavLM, адаптований до української (програма);drssu_real;1582.wav;-1.5036
+WavLM, адаптований до української (програма);drssu_real;15988.wav;6.3207
+WavLM, адаптований до української (програма);drssu_real;16012.wav;3.0426
+WavLM, адаптований до української (програма);drssu_real;16117.wav;5.7152
+WavLM, адаптований до української (програма);drssu_real;16172.wav;8.3552
+WavLM, адаптований до української (програма);drssu_real;16234.wav;5.0848
+WavLM, адаптований до української (програма);drssu_real;16289.wav;4.5470
+WavLM, адаптований до української (програма);drssu_real;16310.wav;5.6767
+WavLM, адаптований до української (програма);drssu_real;16333.wav;6.4250
+WavLM, адаптований до української (програма);drssu_real;16340.wav;3.1806
+WavLM, адаптований до української (програма);drssu_real;16464.wav;8.3091
+WavLM, адаптований до української (програма);drssu_real;16548.wav;1.2656
+WavLM, адаптований до української (програма);drssu_real;16609.wav;5.1213
+WavLM, адаптований до української (програма);drssu_real;16926.wav;2.5034
+WavLM, адаптований до української (програма);drssu_real;16974.wav;5.1086
+WavLM, адаптований до української (програма);drssu_real;17007.wav;3.0344
+WavLM, адаптований до української (програма);drssu_real;17080.wav;7.1501
+WavLM, адаптований до української (програма);drssu_real;17140.wav;1.7934
+WavLM, адаптований до української (програма);drssu_real;17207.wav;8.4267
+WavLM, адаптований до української (програма);drssu_real;17230.wav;2.5112
+WavLM, адаптований до української (програма);drssu_real;17361.wav;3.1737
+WavLM, адаптований до української (програма);drssu_real;17545.wav;1.0139
+WavLM, адаптований до української (програма);drssu_real;17787.wav;6.6506
+WavLM, адаптований до української (програма);drssu_real;17905.wav;9.1630
+WavLM, адаптований до української (програма);drssu_real;17973.wav;3.4574
+WavLM, адаптований до української (програма);drssu_real;1820.wav;-1.4795
+WavLM, адаптований до української (програма);drssu_real;18235.wav;4.5896
+WavLM, адаптований до української (програма);drssu_real;18378.wav;6.0552
+WavLM, адаптований до української (програма);drssu_real;18479.wav;6.1956
+WavLM, адаптований до української (програма);drssu_real;18498.wav;8.5438
+WavLM, адаптований до української (програма);drssu_real;18687.wav;5.2337
+WavLM, адаптований до української (програма);drssu_real;18805.wav;6.1351
+WavLM, адаптований до української (програма);drssu_real;19103.wav;3.0408
+WavLM, адаптований до української (програма);drssu_real;19119.wav;3.7899
+WavLM, адаптований до української (програма);drssu_real;19166.wav;1.8742
+WavLM, адаптований до української (програма);drssu_real;19177.wav;2.2396
+WavLM, адаптований до української (програма);drssu_real;19215.wav;-1.4906
+WavLM, адаптований до української (програма);drssu_real;19239.wav;1.9686
+WavLM, адаптований до української (програма);drssu_real;19538.wav;6.6748
+WavLM, адаптований до української (програма);drssu_real;19616.wav;6.9979
+WavLM, адаптований до української (програма);drssu_real;19666.wav;4.4804
+WavLM, адаптований до української (програма);drssu_real;19726.wav;9.7747
+WavLM, адаптований до української (програма);drssu_real;19746.wav;4.0099
+WavLM, адаптований до української (програма);drssu_real;19905.wav;5.9910
+WavLM, адаптований до української (програма);drssu_real;19981.wav;2.8319
+WavLM, адаптований до української (програма);drssu_real;2004.wav;2.4119
+WavLM, адаптований до української (програма);drssu_real;20047.wav;4.6989
+WavLM, адаптований до української (програма);drssu_real;20334.wav;5.6601
+WavLM, адаптований до української (програма);drssu_real;2041.wav;4.8146
+WavLM, адаптований до української (програма);drssu_real;20429.wav;10.5152
+WavLM, адаптований до української (програма);drssu_real;20538.wav;6.0524
+WavLM, адаптований до української (програма);drssu_real;20810.wav;4.1100
+WavLM, адаптований до української (програма);drssu_real;20918.wav;0.6923
+WavLM, адаптований до української (програма);drssu_real;2093.wav;1.0044
+WavLM, адаптований до української (програма);drssu_real;20935.wav;1.7090
+WavLM, адаптований до української (програма);drssu_real;21004.wav;4.4709
+WavLM, адаптований до української (програма);drssu_real;21005.wav;2.5301
+WavLM, адаптований до української (програма);drssu_real;21499.wav;3.4642
+WavLM, адаптований до української (програма);drssu_real;2151.wav;-0.6658
+WavLM, адаптований до української (програма);drssu_real;21529.wav;-0.2641
+WavLM, адаптований до української (програма);drssu_real;2158.wav;-1.4907
+WavLM, адаптований до української (програма);drssu_real;2175.wav;0.3067
+WavLM, адаптований до української (програма);drssu_real;21957.wav;0.1687
+WavLM, адаптований до української (програма);drssu_real;22071.wav;-1.2396
+WavLM, адаптований до української (програма);drssu_real;22182.wav;2.5702
+WavLM, адаптований до української (програма);drssu_real;22236.wav;2.3337
+WavLM, адаптований до української (програма);drssu_real;22260.wav;7.9676
+WavLM, адаптований до української (програма);drssu_real;22280.wav;4.4073
+WavLM, адаптований до української (програма);drssu_real;22516.wav;6.5805
+WavLM, адаптований до української (програма);drssu_real;22895.wav;6.2796
+WavLM, адаптований до української (програма);drssu_real;22925.wav;10.3096
+WavLM, адаптований до української (програма);drssu_real;23004.wav;6.8835
+WavLM, адаптований до української (програма);drssu_real;23121.wav;1.8885
+WavLM, адаптований до української (програма);drssu_real;23147.wav;-2.6645
+WavLM, адаптований до української (програма);drssu_real;2323.wav;1.9623
+WavLM, адаптований до української (програма);drssu_real;23410.wav;5.1820
+WavLM, адаптований до української (програма);drssu_real;23501.wav;5.0296
+WavLM, адаптований до української (програма);drssu_real;23532.wav;5.5067
+WavLM, адаптований до української (програма);drssu_real;23544.wav;2.9091
+WavLM, адаптований до української (програма);drssu_real;23877.wav;2.0994
+WavLM, адаптований до української (програма);drssu_real;23903.wav;3.4852
+WavLM, адаптований до української (програма);drssu_real;23938.wav;1.6636
+WavLM, адаптований до української (програма);drssu_real;24077.wav;10.0970
+WavLM, адаптований до української (програма);drssu_real;24273.wav;5.7433
+WavLM, адаптований до української (програма);drssu_real;24477.wav;10.9542
+WavLM, адаптований до української (програма);drssu_real;24479.wav;8.4449
+WavLM, адаптований до української (програма);drssu_real;24572.wav;7.5364
+WavLM, адаптований до української (програма);drssu_real;24656.wav;-1.8135
+WavLM, адаптований до української (програма);drssu_real;24728.wav;4.4619
+WavLM, адаптований до української (програма);drssu_real;24834.wav;6.7868
+WavLM, адаптований до української (програма);drssu_real;24868.wav;7.2783
+WavLM, адаптований до української (програма);drssu_real;2503.wav;1.4479
+WavLM, адаптований до української (програма);drssu_real;25313.wav;5.6356
+WavLM, адаптований до української (програма);drssu_real;25465.wav;2.0359
+WavLM, адаптований до української (програма);drssu_real;25540.wav;0.5314
+WavLM, адаптований до української (програма);drssu_real;25696.wav;1.7976
+WavLM, адаптований до української (програма);drssu_real;258.wav;-0.0004
+WavLM, адаптований до української (програма);drssu_real;25831.wav;4.8869
+WavLM, адаптований до української (програма);drssu_real;25875.wav;6.3845
+WavLM, адаптований до української (програма);drssu_real;25921.wav;7.6049
+WavLM, адаптований до української (програма);drssu_real;26023.wav;6.3371
+WavLM, адаптований до української (програма);drssu_real;26131.wav;0.9593
+WavLM, адаптований до української (програма);drssu_real;26145.wav;0.4881
+WavLM, адаптований до української (програма);drssu_real;26151.wav;4.3342
+WavLM, адаптований до української (програма);drssu_real;26213.wav;2.6517
+WavLM, адаптований до української (програма);drssu_real;26236.wav;0.7493
+WavLM, адаптований до української (програма);drssu_real;26382.wav;4.1698
+WavLM, адаптований до української (програма);drssu_real;26415.wav;2.5060
+WavLM, адаптований до української (програма);drssu_real;26446.wav;2.2176
+WavLM, адаптований до української (програма);drssu_real;26470.wav;1.4074
+WavLM, адаптований до української (програма);drssu_real;26544.wav;7.1052
+WavLM, адаптований до української (програма);drssu_real;26552.wav;1.8082
+WavLM, адаптований до української (програма);drssu_real;26619.wav;5.2012
+WavLM, адаптований до української (програма);drssu_real;2675.wav;-0.0588
+WavLM, адаптований до української (програма);drssu_real;26809.wav;0.6623
+WavLM, адаптований до української (програма);drssu_real;26935.wav;3.4603
+WavLM, адаптований до української (програма);drssu_real;27035.wav;7.3341
+WavLM, адаптований до української (програма);drssu_real;27057.wav;7.2460
+WavLM, адаптований до української (програма);drssu_real;27099.wav;8.1387
+WavLM, адаптований до української (програма);drssu_real;27196.wav;8.3233
+WavLM, адаптований до української (програма);drssu_real;27314.wav;5.8616
+WavLM, адаптований до української (програма);drssu_real;27380.wav;8.1439
+WavLM, адаптований до української (програма);drssu_real;2742.wav;0.0272
+WavLM, адаптований до української (програма);drssu_real;27553.wav;4.3532
+WavLM, адаптований до української (програма);drssu_real;27602.wav;1.4772
+WavLM, адаптований до української (програма);drssu_real;27655.wav;-5.7162
+WavLM, адаптований до української (програма);drssu_real;27706.wav;4.5654
+WavLM, адаптований до української (програма);drssu_real;2774.wav;-1.2353
+WavLM, адаптований до української (програма);drssu_real;2775.wav;-0.8790
+WavLM, адаптований до української (програма);drssu_real;27896.wav;7.2219
+WavLM, адаптований до української (програма);drssu_real;27947.wav;5.6013
+WavLM, адаптований до української (програма);drssu_real;28084.wav;-1.8227
+WavLM, адаптований до української (програма);drssu_real;28177.wav;7.9730
+WavLM, адаптований до української (програма);drssu_real;28243.wav;2.0883
+WavLM, адаптований до української (програма);drssu_real;28290.wav;7.0310
+WavLM, адаптований до української (програма);drssu_real;28298.wav;4.0851
+WavLM, адаптований до української (програма);drssu_real;28338.wav;8.0355
+WavLM, адаптований до української (програма);drssu_real;28466.wav;-0.3419
+WavLM, адаптований до української (програма);drssu_real;28472.wav;4.2875
+WavLM, адаптований до української (програма);drssu_real;2849.wav;-1.4501
+WavLM, адаптований до української (програма);drssu_real;28656.wav;7.1363
+WavLM, адаптований до української (програма);drssu_real;28663.wav;3.7458
+WavLM, адаптований до української (програма);drssu_real;28760.wav;9.7043
+WavLM, адаптований до української (програма);drssu_real;29009.wav;5.3465
+WavLM, адаптований до української (програма);drssu_real;29091.wav;8.3147
+WavLM, адаптований до української (програма);drssu_real;29163.wav;4.0154
+WavLM, адаптований до української (програма);drssu_real;292.wav;-0.4753
+WavLM, адаптований до української (програма);drssu_real;29308.wav;10.4233
+WavLM, адаптований до української (програма);drssu_real;29459.wav;3.3004
+WavLM, адаптований до української (програма);drssu_real;29527.wav;4.6187
+WavLM, адаптований до української (програма);drssu_real;29529.wav;5.2156
+WavLM, адаптований до української (програма);drssu_real;29590.wav;7.4824
+WavLM, адаптований до української (програма);drssu_real;29681.wav;4.8005
+WavLM, адаптований до української (програма);drssu_real;2971.wav;-3.3034
+WavLM, адаптований до української (програма);drssu_real;29775.wav;8.8523
+WavLM, адаптований до української (програма);drssu_real;30000.wav;8.3920
+WavLM, адаптований до української (програма);drssu_real;3071.wav;-2.8675
+WavLM, адаптований до української (програма);drssu_real;319.wav;2.1998
+WavLM, адаптований до української (програма);drssu_real;3214.wav;-3.3852
+WavLM, адаптований до української (програма);drssu_real;3258.wav;-1.2326
+WavLM, адаптований до української (програма);drssu_real;3429.wav;-6.2051
+WavLM, адаптований до української (програма);drssu_real;3433.wav;-2.6408
+WavLM, адаптований до української (програма);drssu_real;3561.wav;-0.0656
+WavLM, адаптований до української (програма);drssu_real;3765.wav;6.0672
+WavLM, адаптований до української (програма);drssu_real;3769.wav;1.3066
+WavLM, адаптований до української (програма);drssu_real;3802.wav;-1.6537
+WavLM, адаптований до української (програма);drssu_real;3897.wav;1.6829
+WavLM, адаптований до української (програма);drssu_real;4074.wav;-0.6044
+WavLM, адаптований до української (програма);drssu_real;4173.wav;-0.7143
+WavLM, адаптований до української (програма);drssu_real;4249.wav;-0.3462
+WavLM, адаптований до української (програма);drssu_real;4277.wav;0.5292
+WavLM, адаптований до української (програма);drssu_real;4537.wav;-4.1968
+WavLM, адаптований до української (програма);drssu_real;4618.wav;-1.3238
+WavLM, адаптований до української (програма);drssu_real;4796.wav;1.0153
+WavLM, адаптований до української (програма);drssu_real;4862.wav;-1.3650
+WavLM, адаптований до української (програма);drssu_real;4863.wav;-1.0765
+WavLM, адаптований до української (програма);drssu_real;4877.wav;-0.6268
+WavLM, адаптований до української (програма);drssu_real;4897.wav;0.3591
+WavLM, адаптований до української (програма);drssu_real;4949.wav;-0.3380
+WavLM, адаптований до української (програма);drssu_real;4959.wav;-4.6490
+WavLM, адаптований до української (програма);drssu_real;4961.wav;-3.6220
+WavLM, адаптований до української (програма);drssu_real;501.wav;-2.4458
+WavLM, адаптований до української (програма);drssu_real;5101.wav;-3.7036
+WavLM, адаптований до української (програма);drssu_real;5109.wav;-2.2286
+WavLM, адаптований до української (програма);drssu_real;5266.wav;-2.0071
+WavLM, адаптований до української (програма);drssu_real;5368.wav;-2.3073
+WavLM, адаптований до української (програма);drssu_real;5370.wav;1.5557
+WavLM, адаптований до української (програма);drssu_real;5458.wav;3.0349
+WavLM, адаптований до української (програма);drssu_real;5459.wav;-5.8057
+WavLM, адаптований до української (програма);drssu_real;5885.wav;2.4086
+WavLM, адаптований до української (програма);drssu_real;5963.wav;-3.8037
+WavLM, адаптований до української (програма);drssu_real;6290.wav;-1.9686
+WavLM, адаптований до української (програма);drssu_real;6488.wav;5.1130
+WavLM, адаптований до української (програма);drssu_real;6490.wav;6.2569
+WavLM, адаптований до української (програма);drssu_real;6609.wav;2.1163
+WavLM, адаптований до української (програма);drssu_real;6619.wav;5.9456
+WavLM, адаптований до української (програма);drssu_real;672.wav;-2.8755
+WavLM, адаптований до української (програма);drssu_real;6754.wav;2.9486
+WavLM, адаптований до української (програма);drssu_real;6791.wav;-2.6299
+WavLM, адаптований до української (програма);drssu_real;6811.wav;1.2880
+WavLM, адаптований до української (програма);drssu_real;7075.wav;3.0692
+WavLM, адаптований до української (програма);drssu_real;7119.wav;10.1103
+WavLM, адаптований до української (програма);drssu_real;7169.wav;5.5209
+WavLM, адаптований до української (програма);drssu_real;7214.wav;6.2239
+WavLM, адаптований до української (програма);drssu_real;7244.wav;6.9049
+WavLM, адаптований до української (програма);drssu_real;7376.wav;8.1349
+WavLM, адаптований до української (програма);drssu_real;7654.wav;7.3130
+WavLM, адаптований до української (програма);drssu_real;7830.wav;12.9222
+WavLM, адаптований до української (програма);drssu_real;7855.wav;1.2002
+WavLM, адаптований до української (програма);drssu_real;8.wav;2.7205
+WavLM, адаптований до української (програма);drssu_real;8339.wav;9.3104
+WavLM, адаптований до української (програма);drssu_real;8405.wav;6.1896
+WavLM, адаптований до української (програма);drssu_real;8418.wav;6.8076
+WavLM, адаптований до української (програма);drssu_real;8550.wav;4.0788
+WavLM, адаптований до української (програма);drssu_real;8586.wav;10.8966
+WavLM, адаптований до української (програма);drssu_real;8835.wav;1.2055
+WavLM, адаптований до української (програма);drssu_real;8893.wav;1.0230
+WavLM, адаптований до української (програма);drssu_real;906.wav;-1.9006
+WavLM, адаптований до української (програма);drssu_real;9408.wav;6.2924
+WavLM, адаптований до української (програма);drssu_real;9488.wav;5.6711
+WavLM, адаптований до української (програма);drssu_real;9492.wav;4.0019
+WavLM, адаптований до української (програма);drssu_real;9497.wav;8.1669
+WavLM, адаптований до української (програма);drssu_real;9537.wav;8.4702
+WavLM, адаптований до української (програма);drssu_real;9615.wav;4.7934
+WavLM, адаптований до української (програма);drssu_real;9647.wav;8.2198
+WavLM, адаптований до української (програма);drssu_real;9806.wav;9.6129
+WavLM, адаптований до української (програма);drssu_real;9846.wav;5.1805
+WavLM, адаптований до української (програма);drssu_real;9893.wav;7.7882
+WavLM, адаптований до української (програма);drssu_real;9911.wav;3.8908
+WavLM, адаптований до української (програма);drssu_real;9918.wav;9.4654
+WavLM, адаптований до української (програма);drssu_real;9923.wav;10.2134
+WavLM, адаптований до української (програма);fleurs_real;000.wav;5.7668
+WavLM, адаптований до української (програма);fleurs_real;001.wav;7.2406
+WavLM, адаптований до української (програма);fleurs_real;002.wav;9.0075
+WavLM, адаптований до української (програма);fleurs_real;003.wav;6.6724
+WavLM, адаптований до української (програма);fleurs_real;004.wav;4.6319
+WavLM, адаптований до української (програма);fleurs_real;005.wav;2.7444
+WavLM, адаптований до української (програма);fleurs_real;006.wav;6.0417
+WavLM, адаптований до української (програма);fleurs_real;007.wav;5.5221
+WavLM, адаптований до української (програма);fleurs_real;008.wav;5.4074
+WavLM, адаптований до української (програма);fleurs_real;009.wav;8.7607
+WavLM, адаптований до української (програма);fleurs_real;010.wav;2.7848
+WavLM, адаптований до української (програма);fleurs_real;011.wav;5.3983
+WavLM, адаптований до української (програма);fleurs_real;012.wav;4.4912
+WavLM, адаптований до української (програма);fleurs_real;013.wav;4.5806
+WavLM, адаптований до української (програма);fleurs_real;014.wav;6.7760
+WavLM, адаптований до української (програма);fleurs_real;015.wav;4.3251
+WavLM, адаптований до української (програма);fleurs_real;016.wav;7.3268
+WavLM, адаптований до української (програма);fleurs_real;017.wav;8.5351
+WavLM, адаптований до української (програма);fleurs_real;018.wav;5.2687
+WavLM, адаптований до української (програма);fleurs_real;019.wav;6.7262
+WavLM, адаптований до української (програма);fleurs_real;020.wav;4.6810
+WavLM, адаптований до української (програма);fleurs_real;021.wav;6.3163
+WavLM, адаптований до української (програма);fleurs_real;022.wav;4.2405
+WavLM, адаптований до української (програма);fleurs_real;023.wav;4.5654
+WavLM, адаптований до української (програма);fleurs_real;024.wav;6.1913
+WavLM, адаптований до української (програма);fleurs_real;025.wav;7.2405
+WavLM, адаптований до української (програма);fleurs_real;026.wav;8.0519
+WavLM, адаптований до української (програма);fleurs_real;027.wav;9.4569
+WavLM, адаптований до української (програма);fleurs_real;028.wav;8.6210
+WavLM, адаптований до української (програма);fleurs_real;029.wav;4.3157
+WavLM, адаптований до української (програма);fleurs_real;030.wav;5.0315
+WavLM, адаптований до української (програма);fleurs_real;031.wav;9.8934
+WavLM, адаптований до української (програма);fleurs_real;032.wav;2.5195
+WavLM, адаптований до української (програма);fleurs_real;033.wav;8.2528
+WavLM, адаптований до української (програма);fleurs_real;034.wav;7.6436
+WavLM, адаптований до української (програма);fleurs_real;035.wav;7.2643
+WavLM, адаптований до української (програма);fleurs_real;036.wav;6.1112
+WavLM, адаптований до української (програма);fleurs_real;037.wav;2.0463
+WavLM, адаптований до української (програма);fleurs_real;038.wav;6.5034
+WavLM, адаптований до української (програма);fleurs_real;039.wav;4.5516
+WavLM, адаптований до української (програма);fleurs_real;040.wav;6.5478
+WavLM, адаптований до української (програма);fleurs_real;041.wav;9.5795
+WavLM, адаптований до української (програма);fleurs_real;042.wav;7.2077
+WavLM, адаптований до української (програма);fleurs_real;043.wav;6.5131
+WavLM, адаптований до української (програма);fleurs_real;044.wav;9.5110
+WavLM, адаптований до української (програма);fleurs_real;045.wav;7.9380
+WavLM, адаптований до української (програма);fleurs_real;046.wav;2.2655
+WavLM, адаптований до української (програма);fleurs_real;047.wav;6.9127
+WavLM, адаптований до української (програма);fleurs_real;048.wav;4.0831
+WavLM, адаптований до української (програма);fleurs_real;049.wav;3.2878
+WavLM, адаптований до української (програма);fleurs_real;050.wav;3.2563
+WavLM, адаптований до української (програма);fleurs_real;051.wav;7.4244
+WavLM, адаптований до української (програма);fleurs_real;052.wav;4.1655
+WavLM, адаптований до української (програма);fleurs_real;053.wav;7.3737
+WavLM, адаптований до української (програма);fleurs_real;054.wav;3.9321
+WavLM, адаптований до української (програма);fleurs_real;055.wav;6.0770
+WavLM, адаптований до української (програма);fleurs_real;056.wav;8.7935
+WavLM, адаптований до української (програма);fleurs_real;057.wav;6.1973
+WavLM, адаптований до української (програма);fleurs_real;058.wav;2.4790
+WavLM, адаптований до української (програма);fleurs_real;059.wav;6.7232
+WavLM, адаптований до української (програма);fleurs_real;060.wav;3.3886
+WavLM, адаптований до української (програма);fleurs_real;061.wav;6.7685
+WavLM, адаптований до української (програма);fleurs_real;062.wav;6.4461
+WavLM, адаптований до української (програма);fleurs_real;063.wav;4.0751
+WavLM, адаптований до української (програма);fleurs_real;064.wav;2.3145
+WavLM, адаптований до української (програма);fleurs_real;065.wav;7.0340
+WavLM, адаптований до української (програма);fleurs_real;066.wav;5.5170
+WavLM, адаптований до української (програма);fleurs_real;067.wav;6.0430
+WavLM, адаптований до української (програма);fleurs_real;068.wav;8.8225
+WavLM, адаптований до української (програма);fleurs_real;069.wav;8.7775
+WavLM, адаптований до української (програма);fleurs_real;070.wav;6.9784
+WavLM, адаптований до української (програма);fleurs_real;071.wav;10.2973
+WavLM, адаптований до української (програма);fleurs_real;072.wav;4.7432
+WavLM, адаптований до української (програма);fleurs_real;073.wav;7.8752
+WavLM, адаптований до української (програма);fleurs_real;074.wav;3.2270
+WavLM, адаптований до української (програма);fleurs_real;075.wav;10.2324
+WavLM, адаптований до української (програма);fleurs_real;076.wav;7.3661
+WavLM, адаптований до української (програма);fleurs_real;077.wav;7.0161
+WavLM, адаптований до української (програма);fleurs_real;078.wav;8.4279
+WavLM, адаптований до української (програма);fleurs_real;079.wav;5.0499
+WavLM, адаптований до української (програма);fleurs_real;080.wav;7.7187
+WavLM, адаптований до української (програма);fleurs_real;081.wav;6.6649
+WavLM, адаптований до української (програма);fleurs_real;082.wav;9.8873
+WavLM, адаптований до української (програма);fleurs_real;083.wav;3.5655
+WavLM, адаптований до української (програма);fleurs_real;084.wav;5.9400
+WavLM, адаптований до української (програма);fleurs_real;085.wav;3.8658
+WavLM, адаптований до української (програма);fleurs_real;086.wav;3.6971
+WavLM, адаптований до української (програма);fleurs_real;087.wav;2.6005
+WavLM, адаптований до української (програма);fleurs_real;088.wav;0.9113
+WavLM, адаптований до української (програма);fleurs_real;089.wav;8.1748
+WavLM, адаптований до української (програма);fleurs_real;090.wav;7.2978
+WavLM, адаптований до української (програма);fleurs_real;091.wav;2.9494
+WavLM, адаптований до української (програма);fleurs_real;092.wav;4.7475
+WavLM, адаптований до української (програма);fleurs_real;093.wav;8.8727
+WavLM, адаптований до української (програма);fleurs_real;094.wav;4.9911
+WavLM, адаптований до української (програма);fleurs_real;095.wav;5.4120
+WavLM, адаптований до української (програма);fleurs_real;096.wav;2.0726
+WavLM, адаптований до української (програма);fleurs_real;097.wav;9.5948
+WavLM, адаптований до української (програма);fleurs_real;098.wav;7.2542
+WavLM, адаптований до української (програма);fleurs_real;099.wav;7.2733
+WavLM, адаптований до української (програма);fleurs_real;100.wav;5.0876
+WavLM, адаптований до української (програма);fleurs_real;101.wav;5.7189
+WavLM, адаптований до української (програма);fleurs_real;102.wav;4.0051
+WavLM, адаптований до української (програма);fleurs_real;103.wav;9.0498
+WavLM, адаптований до української (програма);fleurs_real;104.wav;3.9083
+WavLM, адаптований до української (програма);fleurs_real;105.wav;6.0466
+WavLM, адаптований до української (програма);fleurs_real;106.wav;0.4468
+WavLM, адаптований до української (програма);fleurs_real;107.wav;6.9633
+WavLM, адаптований до української (програма);fleurs_real;108.wav;9.0481
+WavLM, адаптований до української (програма);fleurs_real;109.wav;5.7575
+WavLM, адаптований до української (програма);fleurs_real;110.wav;6.0081
+WavLM, адаптований до української (програма);fleurs_real;111.wav;10.2444
+WavLM, адаптований до української (програма);fleurs_real;112.wav;5.0333
+WavLM, адаптований до української (програма);fleurs_real;113.wav;5.8545
+WavLM, адаптований до української (програма);fleurs_real;114.wav;5.6277
+WavLM, адаптований до української (програма);fleurs_real;115.wav;5.2830
+WavLM, адаптований до української (програма);fleurs_real;116.wav;7.5151
+WavLM, адаптований до української (програма);fleurs_real;117.wav;9.6128
+WavLM, адаптований до української (програма);fleurs_real;118.wav;4.0993
+WavLM, адаптований до української (програма);fleurs_real;119.wav;7.2903
+WavLM, адаптований до української (програма);fleurs_real;120.wav;2.9573
+WavLM, адаптований до української (програма);fleurs_real;121.wav;7.9559
+WavLM, адаптований до української (програма);fleurs_real;122.wav;10.9448
+WavLM, адаптований до української (програма);fleurs_real;123.wav;6.7367
+WavLM, адаптований до української (програма);fleurs_real;124.wav;6.8176
+WavLM, адаптований до української (програма);fleurs_real;125.wav;7.7686
+WavLM, адаптований до української (програма);fleurs_real;126.wav;6.7559
+WavLM, адаптований до української (програма);fleurs_real;127.wav;4.3248
+WavLM, адаптований до української (програма);fleurs_real;128.wav;5.3902
+WavLM, адаптований до української (програма);fleurs_real;129.wav;4.6016
+WavLM, адаптований до української (програма);fleurs_real;130.wav;3.4727
+WavLM, адаптований до української (програма);fleurs_real;131.wav;-3.0041
+WavLM, адаптований до української (програма);fleurs_real;132.wav;3.9152
+WavLM, адаптований до української (програма);fleurs_real;133.wav;3.3598
+WavLM, адаптований до української (програма);fleurs_real;134.wav;3.5657
+WavLM, адаптований до української (програма);fleurs_real;135.wav;5.9268
+WavLM, адаптований до української (програма);fleurs_real;136.wav;7.7058
+WavLM, адаптований до української (програма);fleurs_real;137.wav;9.8496
+WavLM, адаптований до української (програма);fleurs_real;138.wav;5.9989
+WavLM, адаптований до української (програма);fleurs_real;139.wav;4.1717
+WavLM, адаптований до української (програма);fleurs_real;140.wav;3.1864
+WavLM, адаптований до української (програма);fleurs_real;141.wav;8.6265
+WavLM, адаптований до української (програма);fleurs_real;142.wav;7.5671
+WavLM, адаптований до української (програма);fleurs_real;143.wav;3.0993
+WavLM, адаптований до української (програма);fleurs_real;144.wav;5.3952
+WavLM, адаптований до української (програма);fleurs_real;145.wav;8.0037
+WavLM, адаптований до української (програма);fleurs_real;146.wav;7.4901
+WavLM, адаптований до української (програма);fleurs_real;147.wav;4.5662
+WavLM, адаптований до української (програма);fleurs_real;148.wav;9.6240
+WavLM, адаптований до української (програма);fleurs_real;149.wav;7.4851
+WavLM, адаптований до української (програма);fleurs_real;150.wav;6.4726
+WavLM, адаптований до української (програма);fleurs_real;151.wav;10.0647
+WavLM, адаптований до української (програма);fleurs_real;152.wav;5.5693
+WavLM, адаптований до української (програма);fleurs_real;153.wav;6.3350
+WavLM, адаптований до української (програма);fleurs_real;154.wav;6.7360
+WavLM, адаптований до української (програма);fleurs_real;155.wav;7.2660
+WavLM, адаптований до української (програма);fleurs_real;156.wav;4.3809
+WavLM, адаптований до української (програма);fleurs_real;157.wav;6.3860
+WavLM, адаптований до української (програма);fleurs_real;158.wav;5.1884
+WavLM, адаптований до української (програма);fleurs_real;159.wav;3.9328
+WavLM, адаптований до української (програма);fleurs_real;160.wav;6.4396
+WavLM, адаптований до української (програма);fleurs_real;161.wav;5.4648
+WavLM, адаптований до української (програма);fleurs_real;162.wav;2.6615
+WavLM, адаптований до української (програма);fleurs_real;163.wav;9.1135
+WavLM, адаптований до української (програма);fleurs_real;164.wav;8.1981
+WavLM, адаптований до української (програма);fleurs_real;165.wav;4.1874
+WavLM, адаптований до української (програма);fleurs_real;166.wav;6.2394
+WavLM, адаптований до української (програма);fleurs_real;167.wav;4.5328
+WavLM, адаптований до української (програма);fleurs_real;168.wav;8.8271
+WavLM, адаптований до української (програма);fleurs_real;169.wav;7.2279
+WavLM, адаптований до української (програма);fleurs_real;170.wav;3.5041
+WavLM, адаптований до української (програма);fleurs_real;171.wav;7.1232
+WavLM, адаптований до української (програма);fleurs_real;172.wav;6.9993
+WavLM, адаптований до української (програма);fleurs_real;173.wav;7.5929
+WavLM, адаптований до української (програма);fleurs_real;174.wav;7.1062
+WavLM, адаптований до української (програма);fleurs_real;175.wav;7.1067
+WavLM, адаптований до української (програма);fleurs_real;176.wav;5.3374
+WavLM, адаптований до української (програма);fleurs_real;177.wav;6.8748
+WavLM, адаптований до української (програма);fleurs_real;178.wav;3.2856
+WavLM, адаптований до української (програма);fleurs_real;179.wav;5.0826
+WavLM, адаптований до української (програма);fleurs_real;180.wav;3.6995
+WavLM, адаптований до української (програма);fleurs_real;181.wav;2.5130
+WavLM, адаптований до української (програма);fleurs_real;182.wav;5.0960
+WavLM, адаптований до української (програма);fleurs_real;183.wav;6.0716
+WavLM, адаптований до української (програма);fleurs_real;184.wav;5.3668
+WavLM, адаптований до української (програма);fleurs_real;185.wav;3.0959
+WavLM, адаптований до української (програма);fleurs_real;186.wav;9.6872
+WavLM, адаптований до української (програма);fleurs_real;187.wav;9.1980
+WavLM, адаптований до української (програма);fleurs_real;188.wav;7.0582
+WavLM, адаптований до української (програма);fleurs_real;189.wav;6.5400
+WavLM, адаптований до української (програма);fleurs_real;190.wav;6.1007
+WavLM, адаптований до української (програма);fleurs_real;191.wav;7.3330
+WavLM, адаптований до української (програма);fleurs_real;192.wav;7.8350
+WavLM, адаптований до української (програма);fleurs_real;193.wav;7.6962
+WavLM, адаптований до української (програма);fleurs_real;194.wav;6.2366
+WavLM, адаптований до української (програма);fleurs_real;195.wav;8.5762
+WavLM, адаптований до української (програма);fleurs_real;196.wav;4.1295
+WavLM, адаптований до української (програма);fleurs_real;197.wav;2.2598
+WavLM, адаптований до української (програма);fleurs_real;198.wav;6.8188
+WavLM, адаптований до української (програма);fleurs_real;199.wav;6.9351
+WavLM, адаптований до української (програма);fleurs_real;200.wav;5.6562
+WavLM, адаптований до української (програма);fleurs_real;201.wav;2.4561
+WavLM, адаптований до української (програма);fleurs_real;202.wav;5.8235
+WavLM, адаптований до української (програма);fleurs_real;203.wav;5.9571
+WavLM, адаптований до української (програма);fleurs_real;204.wav;6.3890
+WavLM, адаптований до української (програма);fleurs_real;205.wav;7.2564
+WavLM, адаптований до української (програма);fleurs_real;206.wav;3.2994
+WavLM, адаптований до української (програма);fleurs_real;207.wav;2.0808
+WavLM, адаптований до української (програма);fleurs_real;208.wav;4.2275
+WavLM, адаптований до української (програма);fleurs_real;209.wav;7.9916
+WavLM, адаптований до української (програма);fleurs_real;210.wav;6.9015
+WavLM, адаптований до української (програма);fleurs_real;211.wav;5.9513
+WavLM, адаптований до української (програма);fleurs_real;212.wav;7.9046
+WavLM, адаптований до української (програма);fleurs_real;213.wav;10.5624
+WavLM, адаптований до української (програма);fleurs_real;214.wav;1.5254
+WavLM, адаптований до української (програма);fleurs_real;215.wav;5.7869
+WavLM, адаптований до української (програма);fleurs_real;216.wav;4.0729
+WavLM, адаптований до української (програма);fleurs_real;217.wav;0.9525
+WavLM, адаптований до української (програма);fleurs_real;218.wav;6.0019
+WavLM, адаптований до української (програма);fleurs_real;219.wav;5.8461
+WavLM, адаптований до української (програма);fleurs_real;220.wav;6.9982
+WavLM, адаптований до української (програма);fleurs_real;221.wav;9.0213
+WavLM, адаптований до української (програма);fleurs_real;222.wav;3.3534
+WavLM, адаптований до української (програма);fleurs_real;223.wav;6.7016
+WavLM, адаптований до української (програма);fleurs_real;224.wav;3.3385
+WavLM, адаптований до української (програма);fleurs_real;225.wav;5.5140
+WavLM, адаптований до української (програма);fleurs_real;226.wav;6.7848
+WavLM, адаптований до української (програма);fleurs_real;227.wav;5.8039
+WavLM, адаптований до української (програма);fleurs_real;228.wav;2.2938
+WavLM, адаптований до української (програма);fleurs_real;229.wav;7.5555
+WavLM, адаптований до української (програма);fleurs_real;230.wav;5.6019
+WavLM, адаптований до української (програма);fleurs_real;231.wav;6.2915
+WavLM, адаптований до української (програма);fleurs_real;232.wav;6.4782
+WavLM, адаптований до української (програма);fleurs_real;233.wav;8.2072
+WavLM, адаптований до української (програма);fleurs_real;234.wav;1.7322
+WavLM, адаптований до української (програма);fleurs_real;235.wav;3.3878
+WavLM, адаптований до української (програма);fleurs_real;236.wav;7.0819
+WavLM, адаптований до української (програма);fleurs_real;237.wav;9.1639
+WavLM, адаптований до української (програма);fleurs_real;238.wav;4.4143
+WavLM, адаптований до української (програма);fleurs_real;239.wav;0.6108
+WavLM, адаптований до української (програма);fleurs_real;240.wav;7.7312
+WavLM, адаптований до української (програма);fleurs_real;241.wav;7.2907
+WavLM, адаптований до української (програма);fleurs_real;242.wav;7.2020
+WavLM, адаптований до української (програма);fleurs_real;243.wav;8.1528
+WavLM, адаптований до української (програма);fleurs_real;244.wav;7.4944
+WavLM, адаптований до української (програма);fleurs_real;245.wav;8.7210
+WavLM, адаптований до української (програма);fleurs_real;246.wav;3.4891
+WavLM, адаптований до української (програма);fleurs_real;247.wav;3.4559
+WavLM, адаптований до української (програма);fleurs_real;248.wav;1.9711
+WavLM, адаптований до української (програма);fleurs_real;249.wav;2.1669
+WavLM, адаптований до української (програма);fleurs_real;250.wav;4.2179
+WavLM, адаптований до української (програма);fleurs_real;251.wav;2.5935
+WavLM, адаптований до української (програма);fleurs_real;252.wav;7.5759
+WavLM, адаптований до української (програма);fleurs_real;253.wav;7.0072
+WavLM, адаптований до української (програма);fleurs_real;254.wav;-0.4345
+WavLM, адаптований до української (програма);fleurs_real;255.wav;6.9186
+WavLM, адаптований до української (програма);fleurs_real;256.wav;3.5664
+WavLM, адаптований до української (програма);fleurs_real;257.wav;-0.4175
+WavLM, адаптований до української (програма);fleurs_real;258.wav;3.3230
+WavLM, адаптований до української (програма);fleurs_real;259.wav;8.5258
+WavLM, адаптований до української (програма);fleurs_real;260.wav;7.2433
+WavLM, адаптований до української (програма);fleurs_real;261.wav;5.0540
+WavLM, адаптований до української (програма);fleurs_real;262.wav;1.6194
+WavLM, адаптований до української (програма);fleurs_real;263.wav;8.3561
+WavLM, адаптований до української (програма);fleurs_real;264.wav;5.2922
+WavLM, адаптований до української (програма);fleurs_real;265.wav;7.9925
+WavLM, адаптований до української (програма);fleurs_real;266.wav;8.2951
+WavLM, адаптований до української (програма);fleurs_real;267.wav;6.5059
+WavLM, адаптований до української (програма);fleurs_real;268.wav;6.2405
+WavLM, адаптований до української (програма);fleurs_real;269.wav;8.0824
+WavLM, адаптований до української (програма);fleurs_real;270.wav;7.0582
+WavLM, адаптований до української (програма);fleurs_real;271.wav;6.9061
+WavLM, адаптований до української (програма);fleurs_real;272.wav;4.4847
+WavLM, адаптований до української (програма);fleurs_real;273.wav;4.4104
+WavLM, адаптований до української (програма);fleurs_real;274.wav;6.9903
+WavLM, адаптований до української (програма);fleurs_real;275.wav;4.2710
+WavLM, адаптований до української (програма);fleurs_real;276.wav;6.5704
+WavLM, адаптований до української (програма);fleurs_real;277.wav;6.5073
+WavLM, адаптований до української (програма);fleurs_real;278.wav;3.7991
+WavLM, адаптований до української (програма);fleurs_real;279.wav;7.5299
+WavLM, адаптований до української (програма);fleurs_real;280.wav;7.9716
+WavLM, адаптований до української (програма);fleurs_real;281.wav;5.4787
+WavLM, адаптований до української (програма);fleurs_real;282.wav;2.5484
+WavLM, адаптований до української (програма);fleurs_real;283.wav;8.2902
+WavLM, адаптований до української (програма);fleurs_real;284.wav;2.3142
+WavLM, адаптований до української (програма);fleurs_real;285.wav;6.8018
+WavLM, адаптований до української (програма);fleurs_real;286.wav;1.3922
+WavLM, адаптований до української (програма);fleurs_real;287.wav;9.7367
+WavLM, адаптований до української (програма);fleurs_real;288.wav;2.4520
+WavLM, адаптований до української (програма);fleurs_real;289.wav;1.6915
+WavLM, адаптований до української (програма);fleurs_real;290.wav;5.7122
+WavLM, адаптований до української (програма);fleurs_real;291.wav;8.1781
+WavLM, адаптований до української (програма);fleurs_real;292.wav;8.6395
+WavLM, адаптований до української (програма);fleurs_real;293.wav;6.6463
+WavLM, адаптований до української (програма);fleurs_real;294.wav;9.2487
+WavLM, адаптований до української (програма);fleurs_real;295.wav;6.5619
+WavLM, адаптований до української (програма);fleurs_real;296.wav;7.9936
+WavLM, адаптований до української (програма);fleurs_real;297.wav;2.8023
+WavLM, адаптований до української (програма);fleurs_real;298.wav;7.4884
+WavLM, адаптований до української (програма);fleurs_real;299.wav;8.6316

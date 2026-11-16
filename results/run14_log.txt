@@ -1,0 +1,48 @@
+mlitw_real: 73 записів
+mlitw_fake: 17 записів
+drssu_fake: 300 записів
+drssu_real: 300 записів
+fleurs_real: 300 записів
+  mlitw_real: 50/73
+  drssu_fake: 50/300
+  drssu_fake: 100/300
+  drssu_fake: 150/300
+  drssu_fake: 200/300
+  drssu_fake: 250/300
+  drssu_fake: 300/300
+  drssu_real: 50/300
+  drssu_real: 100/300
+  drssu_real: 150/300
+  drssu_real: 200/300
+  drssu_real: 250/300
+  drssu_real: 300/300
+  fleurs_real: 50/300
+  fleurs_real: 100/300
+  fleurs_real: 150/300
+  fleurs_real: 200/300
+  fleurs_real: 250/300
+  fleurs_real: 300/300
+
+=== WavLM, лише ASVspoof (англ.)
+  A. ML-ITW: справжні vs дипфейки (соцмережі)          EER =  82.3 %
+  B. DRSSU Edge-TTS+RVC vs FLEURS                      EER =  34.3 %
+  C. DRSSU Edge-TTS+RVC vs DRSSU справжні (CV 16.1)    EER =  44.3 %
+  Помилки на порогах програми (справжні — частка відхилених, підробки — частка пропущених):
+    mlitw_real   м'яка:  52.0 %  звичайна:  78.1 %  сувора:  94.5 %
+    mlitw_fake   м'яка:  88.2 %  звичайна:  88.2 %  сувора:  70.6 %
+    drssu_fake   м'яка:  91.3 %  звичайна:  51.0 %  сувора:  21.3 %
+    drssu_real   м'яка:  31.3 %  звичайна:  42.3 %  сувора:  56.3 %
+    fleurs_real  м'яка:   8.3 %  звичайна:  23.0 %  сувора:  48.3 %
+
+=== WavLM, адаптований до української (програма)
+  A. ML-ITW: справжні vs дипфейки (соцмережі)          EER =  69.9 %
+  B. DRSSU Edge-TTS+RVC vs FLEURS                      EER =   1.0 %
+  C. DRSSU Edge-TTS+RVC vs DRSSU справжні (CV 16.1)    EER =  12.3 %
+  Помилки на порогах програми (справжні — частка відхилених, підробки — частка пропущених):
+    mlitw_real   м'яка:  11.0 %  звичайна:  19.2 %  сувора:  27.4 %
+    mlitw_fake   м'яка: 100.0 %  звичайна: 100.0 %  сувора: 100.0 %
+    drssu_fake   м'яка:  13.7 %  звичайна:   1.0 %  сувора:   0.0 %
+    drssu_real   м'яка:  11.0 %  звичайна:  19.0 %  сувора:  25.3 %
+    fleurs_real  м'яка:   0.3 %  звичайна:   1.0 %  сувора:   2.7 %
+
+Звіт: results/uk_external.json | оцінки: results/uk_external_scores.csv
