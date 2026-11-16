@@ -1,0 +1,12 @@
+# Ядро і десктопна програма (перевірено на Python 3.14, Windows 10, CPU без відеокарти)
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+soundfile>=0.12
+imageio-ffmpeg>=0.5        # ffmpeg із libopus/AMR/GSM — окремо ставити не потрібно
+torch>=2.2
+torchaudio>=2.2            # WavLM Base+ (завантажується автоматично при першому запуску, ≈ 360 МБ)
+matplotlib>=3.8
+sounddevice>=0.4           # запис з мікрофона
+PySide6-Essentials>=6.6    # інтерфейс; без нього запуститься простіший інтерфейс Tkinter
+faster-whisper>=1.0        # розпізнавання мовлення (модель small, int8, ≈ 470 МБ при першому запуску)

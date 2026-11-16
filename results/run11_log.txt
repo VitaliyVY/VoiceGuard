@@ -1,0 +1,135 @@
+=== Переклад scam-dialogue  22 окт 2026 г. 22:26:36
+1/80 delivery (93 с)
+2/80 delivery (151 с)
+3/80 delivery (229 с)
+4/80 delivery (299 с)
+5/80 delivery (357 с)
+6/80 delivery (496 с)
+7/80 delivery (607 с)
+8/80 delivery (669 с)
+9/80 delivery (774 с)
+10/80 delivery (852 с)
+11/80 insurance (992 с)
+12/80 insurance (1091 с)
+13/80 insurance (1211 с)
+14/80 insurance (1309 с)
+15/80 insurance (1395 с)
+16/80 insurance (1474 с)
+17/80 insurance (1557 с)
+18/80 insurance (1650 с)
+19/80 insurance (1702 с)
+20/80 insurance (1796 с)
+21/80 refund (1893 с)
+22/80 refund (1960 с)
+23/80 refund (2042 с)
+24/80 refund (2150 с)
+25/80 refund (2249 с)
+26/80 refund (2341 с)
+27/80 refund (2413 с)
+28/80 refund (2512 с)
+29/80 refund (2589 с)
+30/80 refund (2646 с)
+31/80 reward (2704 с)
+32/80 reward (2772 с)
+33/80 reward (2868 с)
+34/80 reward (2930 с)
+35/80 reward (2994 с)
+36/80 reward (3043 с)
+37/80 reward (3126 с)
+38/80 reward (3215 с)
+39/80 reward (3273 с)
+40/80 reward (3371 с)
+41/80 ssn (3429 с)
+Traceback (most recent call last):
+  File "C:\University\CHNU_(Master)\magiserska\Diplom\duplom\scripts\scam_translate.py", line 83, in <module>
+    main()
+    ~~~~^^
+  File "C:\University\CHNU_(Master)\magiserska\Diplom\duplom\scripts\scam_translate.py", line 75, in main
+    uk = translate(r["dialogue"], args.model)
+  File "C:\University\CHNU_(Master)\magiserska\Diplom\duplom\scripts\scam_translate.py", line 40, in translate
+    with urllib.request.urlopen(req, timeout=900) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\urllib\request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\urllib\request.py", line 493, in open
+    response = meth(req, response)
+  File "C:\Python314\Lib\urllib\request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Python314\Lib\urllib\request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Python314\Lib\urllib\request.py", line 464, in _call_chain
+    result = func(*args)
+  File "C:\Python314\Lib\urllib\request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 500: Internal Server Error
+=== Оцінка  22 окт 2026 г. 23:23:46
+Traceback (most recent call last):
+  File "C:\University\CHNU_(Master)\magiserska\Diplom\duplom\scripts\scam_eval.py", line 48, in <module>
+    main()
+    ~~~~^^
+  File "C:\University\CHNU_(Master)\magiserska\Diplom\duplom\scripts\scam_eval.py", line 30, in main
+    tactics[r["label"]].update(rep.tactics)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Python314\Lib\collections\__init__.py", line 707, in update
+    self[elem] = count + self_get(elem, 0)
+                 ~~~~~~^~~~~~~~~~~~~~~~~~~
+TypeError: can only concatenate str (not "int") to str
+exit 1  22 окт 2026 г. 23:23:47
+=== Переклад (продовження)  22 окт 2026 г. 23:41:21
+1/39 ssn (147 с)
+2/39 ssn (246 с)
+3/39 ssn (354 с)
+4/39 ssn (429 с)
+5/39 ssn (526 с)
+6/39 ssn (640 с)
+7/39 ssn (707 с)
+8/39 ssn (812 с)
+9/39 ssn (910 с)
+10/39 support (1002 с)
+11/39 support (1044 с)
+12/39 support (1120 с)
+13/39 support (1194 с)
+14/39 support (1278 с)
+15/39 support (1386 с)
+16/39 support (1487 с)
+17/39 support (1580 с)
+18/39 support (1664 с)
+19/39 support (1713 с)
+20/39 telemarketing (1773 с)
+21/39 telemarketing (1823 с)
+22/39 telemarketing (1889 с)
+23/39 telemarketing (1961 с)
+24/39 telemarketing (2032 с)
+25/39 telemarketing (2090 с)
+26/39 telemarketing (2158 с)
+27/39 telemarketing (2270 с)
+28/39 telemarketing (2382 с)
+29/39 telemarketing (2463 с)
+  помилка сервера 500, повтор через 60 с
+30/39 wrong (2581 с)
+31/39 wrong (2611 с)
+32/39 wrong (2643 с)
+33/39 wrong (2672 с)
+34/39 wrong (2702 с)
+35/39 wrong (2750 с)
+36/39 wrong (2784 с)
+37/39 wrong (2826 с)
+38/39 wrong (2854 с)
+39/39 wrong (2884 с)
+=== Оцінка  23 окт 2026 г.  0:29:26
+клас        тип            N   тривога ≥ середній, %  високий, %
+----------  -------------  --  ---------------------  ----------
+шахрайство  refund         10  90                     90        
+шахрайство  reward         10  40                     40        
+шахрайство  ssn            10  80                     60        
+шахрайство  support        10  40                     30        
+звичайна    delivery       10  0                      0         
+звичайна    insurance      10  10                     10        
+звичайна    telemarketing  10  0                      0         
+звичайна    wrong          10  0                      0         
+шахрайські: тривога в 62 % з 40; тактики: {'personal': 33, 'prize': 19, 'authority': 3, 'urgency': 2, 'remote': 2, 'money': 1}
+звичайні: тривога в 2 % з 40; тактики: {'personal': 8, 'prize': 1}
+exit 0  23 окт 2026 г.  0:29:26

@@ -1,0 +1,58 @@
+{
+  "refund": {
+    "label": 1,
+    "n": 10,
+    "alarm": 0.9,
+    "high": 0.9
+  },
+  "reward": {
+    "label": 1,
+    "n": 10,
+    "alarm": 0.4,
+    "high": 0.4
+  },
+  "ssn": {
+    "label": 1,
+    "n": 10,
+    "alarm": 0.8,
+    "high": 0.6
+  },
+  "support": {
+    "label": 1,
+    "n": 10,
+    "alarm": 0.4,
+    "high": 0.3
+  },
+  "delivery": {
+    "label": 0,
+    "n": 10,
+    "alarm": 0.0,
+    "high": 0.0
+  },
+  "insurance": {
+    "label": 0,
+    "n": 10,
+    "alarm": 0.1,
+    "high": 0.1
+  },
+  "telemarketing": {
+    "label": 0,
+    "n": 10,
+    "alarm": 0.0,
+    "high": 0.0
+  },
+  "wrong": {
+    "label": 0,
+    "n": 10,
+    "alarm": 0.0,
+    "high": 0.0
+  },
+  "all_1": {
+    "n": 40,
+    "alarm": 0.625
+  },
+  "all_0": {
+    "n": 40,
+    "alarm": 0.025
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "WavLM, навчено лише на ASVspoof (англ.)": {
+    "clean": {
+      "eer_piper": 0.83,
+      "eer_mms": 0.5325,
+      "eer_all": 0.6425,
+      "real_rejected": 0.685,
+      "fake_accepted": 0.5925
+    },
+    "opus16": {
+      "eer_piper": 0.855,
+      "eer_mms": 0.52,
+      "eer_all": 0.6275,
+      "real_rejected": 0.845,
+      "fake_accepted": 0.46
+    },
+    "amrnb": {
+      "eer_piper": 0.86,
+      "eer_mms": 0.56,
+      "eer_all": 0.655,
+      "real_rejected": 0.92,
+      "fake_accepted": 0.39
+    }
+  },
+  "LFCC-GMM (D), навчено лише на ASVspoof (англ.)": {
+    "clean": {
+      "eer_piper": 0.535,
+      "eer_mms": 0.26,
+      "eer_all": 0.39249999999999996,
+      "real_rejected": 0.12,
+      "fake_accepted": 0.7475
+    },
+    "opus16": {
+      "eer_piper": 0.515,
+      "eer_mms": 0.2725,
+      "eer_all": 0.39,
+      "real_rejected": 0.0825,
+      "fake_accepted": 0.8425
+    },
+    "amrnb": {
+      "eer_piper": 0.54,
+      "eer_mms": 0.3425,
+      "eer_all": 0.4175,
+      "real_rejected": 0.11,
+      "fake_accepted": 0.8825
+    }
+  },
+  "WavLM, адаптовано (+ українські записи, лише Piper; вага 5.0)": {
+    "clean": {
+      "eer_piper": 0.05,
+      "eer_mms": 0.0075,
+      "eer_all": 0.0325,
+      "real_rejected": 0.0525,
+      "fake_accepted": 0.02
+    },
+    "opus16": {
+      "eer_piper": 0.0525,
+      "eer_mms": 0.010000000000000009,
+      "eer_all": 0.0375,
+      "real_rejected": 0.0725,
+      "fake_accepted": 0.0125
+    },
+    "amrnb": {
+      "eer_piper": 0.09,
+      "eer_mms": 0.015000000000000013,
+      "eer_all": 0.06999999999999995,
+      "real_rejected": 0.12,
+      "fake_accepted": 0.025
+    }
+  },
+  "adapted_asvspoof_eval": {
+    "clean": 0.07999999999999996,
+    "opus32": 0.08384615384615379,
+    "opus16": 0.08499999999999996,
+    "opus8": 0.1134615384615385,
+    "telephone": 0.09269230769230774,
+    "amrnb": 0.1069230769230769,
+    "amrwb": 0.10884615384615381,
+    "gsm": 0.105,
+    "noise20": 0.06333333333333334,
+    "noise10": 0.09307692307692306
+  }
+}

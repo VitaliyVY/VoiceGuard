@@ -1,0 +1,66 @@
+{
+  "snr_db_median": {
+    "real": 29.991615295410156,
+    "fake": 48.19657325744629
+  },
+  "WavLM (англ.)": {
+    "clean": {
+      "eer_piper": 0.83,
+      "eer_mms": 0.5325,
+      "eer": 0.6425,
+      "fake_accepted_at_clean_thr": 0.6425
+    },
+    "mp3": {
+      "eer_piper": 0.7875,
+      "eer_mms": 0.4725,
+      "eer": 0.5875,
+      "fake_accepted_at_clean_thr": 0.545
+    },
+    "mp3_room20": {
+      "eer_piper": 0.45,
+      "eer_mms": 0.19499999999999995,
+      "eer": 0.345,
+      "fake_accepted_at_clean_thr": 0.095
+    },
+    "mp3_room10": {
+      "eer_piper": 0.16,
+      "eer_mms": 0.0875,
+      "eer": 0.12250000000000005,
+      "fake_accepted_at_clean_thr": 0.0025
+    },
+    "spearman_score_vs_snr_real": {
+      "rho": -0.012589391183694896,
+      "p": 0.8018065315709859
+    }
+  },
+  "WavLM адаптований": {
+    "clean": {
+      "eer_piper": 0.05,
+      "eer_mms": 0.0075,
+      "eer": 0.0325,
+      "fake_accepted_at_clean_thr": 0.0325
+    },
+    "mp3": {
+      "eer_piper": 0.0525,
+      "eer_mms": 0.0125,
+      "eer": 0.04249999999999998,
+      "fake_accepted_at_clean_thr": 0.045
+    },
+    "mp3_room20": {
+      "eer_piper": 0.0725,
+      "eer_mms": 0.03500000000000003,
+      "eer": 0.057499999999999996,
+      "fake_accepted_at_clean_thr": 0.115
+    },
+    "mp3_room10": {
+      "eer_piper": 0.040000000000000036,
+      "eer_mms": 0.0275,
+      "eer": 0.03749999999999998,
+      "fake_accepted_at_clean_thr": 0.0425
+    },
+    "spearman_score_vs_snr_real": {
+      "rho": -0.19036300226876415,
+      "p": 0.00012792032061599717
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Додатково — лише для відтворення експериментів з українськими даними (docs/EXPERIMENTS.md)
+-r requirements.txt
+piper-tts>=1.2             # синтез українського мовлення Piper (scripts/uk_fake.py)
+transformers>=4.40         # MMS-TTS ukr (scripts/uk_fake.py, scripts/uk_fake_mms_adapt.py)
+requests>=2.31
